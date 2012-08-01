@@ -1,0 +1,249 @@
+MessageForm.OKButtonCaption "~OK" ***
+MessageForm.CancelButtonCaption "~Avbryt" ***
+MessageForm.HelpButtonCaption "~HjÑlp" ***
+MessageForm.YesButtonCaption "~Ja" ***
+MessageForm.NoButtonCaption "~Nej" ***
+TextInputForm.OKButtonCaption "~OK" ***
+TextInputForm.CancelButtonCaption "~Avbryt" ***
+MainForm.Caption "" ***
+MainForm.FileMenu.Caption "~Arkiv" ***
+MainForm.FileMenu.Hint "" ***
+MainForm.FileNewMI.Caption "~Ny\tCtrl+N" ***
+MainForm.FileNewMI.Hint "Rensa redigeraren fîr ny fil" ***
+MainForm.FileOpenMI.Caption "~ôppna...\tCtrl+O" ***
+MainForm.FileOpenMI.Hint "ôppna en fil" ***
+MainForm.FileSaveMI.Caption "~Spara\tCtrl+S" ***
+MainForm.FileSaveMI.Hint "Spara text till fil" ***
+MainForm.FileSaveAsMI.Caption "Spara s~om...\tCtrl+D" ***
+MainForm.FileSaveAsMI.Hint "Spara till annat namn" ***
+MainForm.FileAutosaveMI.Caption "A~utospar..." ***
+MainForm.FileAutosaveMI.Hint "éndra autospar: pÜ eller av" ***
+MainForm.FilePrintMI.Caption "S~kriv ut...\tCtrl+P" ***
+MainForm.FilePrintMI.Hint "Skriv text" ***
+MainForm.FileExitMI.Caption "A~vsluta\tAlt+F4" ***
+MainForm.FileExitMI.Hint "Avsluta programmet" ***
+MainForm.EditMenu.Caption "~Redigera" ***
+MainForm.EditMenu.Hint "" ***
+MainForm.EditUndoMI.Caption "~èngra\tAlt+BkSp" ***
+MainForm.EditUndoMI.Hint "èngra senaste Ñndring (men INTE fil/Ny)" ***
+MainForm.EditCutMI.Caption "~Klipp\tShift+Del" ***
+MainForm.EditCutMI.Hint "Klipp markerad text till klippbord" ***
+MainForm.EditCopyMI.Caption "K~opiera\tCtrl+Ins" ***
+MainForm.EditCopyMI.Hint "Kopiera markerad text till klippbord" ***
+MainForm.EditPasteMI.Caption "K~listra in\tShift+Ins" ***
+MainForm.EditPasteMI.Hint "Klistra in text frÜn klippbord" ***
+MainForm.EditSelectAllMI.Caption "Markera ~allt\tCtrl+A" ***
+MainForm.EditSelectAllMI.Hint "Markera all text" ***
+MainForm.EditFindMI.Caption "~Sîk...\tCtrl+F" ***
+MainForm.EditFindMI.Hint "Sîk efter en textstrÑng" ***
+MainForm.EditFindAgainMI.Caption "Sîk i~gen\tCtrl+G" ***
+MainForm.EditFindAgainMI.Hint "Upprepa senaste sîkning" ***
+MainForm.EditReplaceMI.Caption "E~rsÑtt...\tCtrl+R" ***
+MainForm.EditReplaceMI.Hint "ErsÑtt en textstrÑng med en annan" ***
+MainForm.OptionsMenu.Caption "E~genskaper" ***
+MainForm.OptionsMenu.Hint "" ***
+MainForm.OptionsWrapMI.Caption "Rad~brytning\tCtrl+W" ***
+MainForm.OptionsWrapMI.Hint "éndra radbrytning: pÜ eller av" ***
+MainForm.OptionsReadOnlyMI.Caption "~Skrivskydd" ***
+MainForm.OptionsReadOnlyMI.Hint "TillÜt eller hindra texten frÜn fîrÑndring" ***
+MainForm.OptionsCodePageMI.Caption "Teckentabell" ***
+MainForm.OptionsCodePageMI.Hint "Teckentabell att anvÑnda" ***
+MainForm.OptionsFontMI.Caption "F~onter..." ***
+MainForm.OptionsFontMI.Hint "ôppnar Fontdialogen, som lÜter dig vÑlja font som du vill anvÑnda" ***
+MainForm.OptionsColorsMI.Caption "F~Ñrger..." ***
+MainForm.OptionsColorsMI.Hint "ôppnar FÑrgdialogen, som lÜter dig vÑlja text och bakgrundsfÑrg" ***
+MainForm.OptionsF3KeyActionMI.Caption "F3 hÑndelse" ***
+MainForm.OptionsF3KeyActionMI.Hint "VÑlj beteende fîr F3" ***
+MainForm.OptionsF3ExitMI.Caption "A~vsluta" ***
+MainForm.OptionsF3ExitMI.Hint "LÜt F3 avsluta programmet" ***
+MainForm.OptionsF3FindAgainMI.Caption "Sîk I~gen" ***
+MainForm.OptionsF3FindAgainMI.Hint "LÜt F3 upprepa senaste sîkning" ***
+MainForm.SaveLanguageMI.Caption "Spara/uppdatera sprÜk" ***
+MainForm.SaveLanguageMI.Hint "" ***
+MainForm.HelpMenu.Caption "~HjÑlp" ***
+MainForm.HelpMenu.Hint "" ***
+MainForm.HelpContentsMI.Caption "~InnehÜll\tF1" ***
+MainForm.HelpContentsMI.Hint "Visa hjÑlp" ***
+MainForm.HelpKeysMI.Caption "Kortkommandon" ***
+MainForm.HelpKeysMI.Hint "Tangentbordets kortkommandon" ***
+MainForm.HelpProductInformationMI.Caption "~Produktinformation" ***
+MainForm.HelpProductInformationMI.Hint "Visa versionsinformation" ***
+MainForm.OpenDialog.OKName "ôppna" ***
+MainForm.OpenDialog.Title "ôppna fil" ***
+MainForm.SaveDialog.OKName "Spara" ***
+MainForm.SaveDialog.Title "" ***
+MainForm.EditCutPMI.Caption "Klipp ur" ***
+MainForm.EditCutPMI.Hint ""  ***
+MainForm.EditCopyPMI.Caption "~Kopiera" ***
+MainForm.EditCopyPMI.Hint ""  ***
+MainForm.EditPastePMI.Caption "~Klistra in" ***
+MainForm.EditPastePMI.Hint ""  ***
+MainForm.EditSelectAllPMI.Caption "~VÑlj alla" ***
+MainForm.EditSelectAllPMI.Hint "" ***
+MainForm.FontDialog.Caption "VÑlj typsnitt" ***
+MainForm.FontDialog.NameLabel.Caption "~Namn:" ***
+MainForm.FontDialog.NameLabel.Hint "" ***
+MainForm.FontDialog.StyleLabel.Caption "Typsnitt:" ***
+MainForm.FontDialog.StyleLabel.Hint "" ***
+MainForm.FontDialog.BoldCheck.Caption "~Fet (Simulerad)" ***
+MainForm.FontDialog.BoldCheck.Hint "" ***
+MainForm.FontDialog.ItalicCheck.Caption "~Italic (Simulerad)" ***
+MainForm.FontDialog.ItalicCheck.Hint "" ***
+MainForm.FontDialog.UnderscoreCheck.Caption "~Understruken" ***
+MainForm.FontDialog.UnderscoreCheck.Hint "" ***
+MainForm.FontDialog.OutlineCheck.Caption "~Kontur" ***
+MainForm.FontDialog.OutlineCheck.Hint "" ***
+MainForm.FontDialog.StrikeOutCheck.Caption "Genomstruken" ***
+MainForm.FontDialog.StrikeOutCheck.Hint "" ***
+MainForm.FontDialog.SizeLabel.Caption "~Storlek:" ***
+MainForm.FontDialog.SizeLabel.Hint "" ***
+MainForm.FontDialog.ActualFaceLabel.Caption "" ***
+MainForm.FontDialog.ActualFaceLabel.Hint "" ***
+MainForm.FontDialog.OKButton.Caption "~OK" ***
+MainForm.FontDialog.OKButton.Hint "" ***
+MainForm.FontDialog.CancelButton.Caption "Avbryt" ***
+MainForm.FontDialog.CancelButton.Hint "" ***
+MainForm.SaveLanguageError "Fel vid spara sprÜkfil " ***
+MainForm.SavedMsg "Sparade: " ***
+MainForm.AutosaveDoneMsg "Auto-sparade: " ***
+MainForm.PrintTitle "Skriv" ***
+MainForm.NoPrinterError "Du har ingen skrivare konfigurerad." ***
+MainForm.PrintDoneMsg1 "Skrivning klar (" ***
+MainForm.PrintDoneMsg2 " sidor)" ***
+MainForm.HelpTitle "Textredigerare hjÑlp" ***
+MainForm.ReplaceDoneMsg1 "Ersatte " ***
+MainForm.ReplaceDoneMsg2 " fîrekomst(er)" ***
+MainForm.NoReplacementsMsg "Inga ersÑttningar gjorda" ***
+MainForm.MatchMsg "Hittad" ***
+MainForm.NoMatchMsg "Ingen fîrekomst funnen" ***
+MainForm.ReadOnlyStatus "Skrivskyddad" ***
+MainForm.ModifiedStatus "éndrad" ***
+MainForm.UntitledTitle "(Ej namngiven)" ***
+MainForm.AppTitle "Textredigerare" ***
+MainForm.InsertStatus "INS" ***
+MainForm.OverwriteStatus "OVR" ***
+MainForm.SaveTitle "Spara fil" ***
+MainForm.SaveReadonlyError "Kan inte spara till skrivskyddad fil: " ***
+MainForm.SaveAccessDeniedError "ètkomst nekad nÑr spara fil: " ***
+MainForm.FileInUseError "Filen anvÑnds av annat program: " ***
+MainForm.FileDoesNotExistError "Filen existerar inte: " ***
+MainForm.OpenAccessDeniedError "ètkomst nekad: " ***
+MainForm.OpenFileInUseError "Filen anvÑnds av annat program: " ***
+MainForm.SaveError "Fel vid spara fil: " ***
+MainForm.ReplacePrompt "ér du sÑker att du vill ersÑtta denna fil?" ***
+MainForm.NewFileMsg "Ny fil" ***
+MainForm.OpenTitle "ôppna fil" ***
+MainForm.OpenError "Fel vid îppna fil: " ***
+MainForm.OpenedMsg "ôppnade: " ***
+MainForm.Usage "AnvÑndning" ***
+MainForm.Usage1 "AnvÑndning: ae [/read] [<filnamn>]" ***
+MainForm.Usage2 "  /read: set read-only" ***
+MainForm.Usage3 "Visar eller redigerar textfil" ***
+MainForm.PrintingPageMsg "Skriv ut: Sida " ***
+ProductInformationForm.Caption "Produktinformation" ***
+ProductInformationForm.TitleLabel.Caption "AE Textredigerare" ***
+ProductInformationForm.TitleLabel.Hint "" ***
+ProductInformationForm.CopyrightLabel.Caption "Copyright 2003 Aaron Lawrence" ***
+ProductInformationForm.CopyrightLabel.Hint "" ***
+ProductInformationForm.OKButton.Caption "~OK" ***
+ProductInformationForm.OKButton.Hint "" ***
+ProductInformationForm.VersionLabel.Caption "VersionLabel" ***
+ProductInformationForm.VersionLabel.Hint "" ***
+ProductInformationForm.TranslationInfoLabel.Caption "ôversÑttning: S Grînlund, B Sîderstrîm" ***
+ProductInformationForm.TranslationInfoLabel.Hint "" ***
+ColorsForm.Caption "Val av text/bakgrundsfÑrg" ***
+ColorsForm.OKButton.Caption "~OK" ***
+ColorsForm.OKButton.Hint " ***
+ColorsForm.CancelButton.Caption "~Avbryt" ***
+ColorsForm.CancelButton.Hint "" ***
+ColorsForm.HelpButton.Caption "~HjÑlp" ***
+ColorsForm.HelpButton.Hint "" ***
+ColorsForm.TextRadioButton.Caption "~Text" ***
+ColorsForm.TextRadioButton.Hint "" ***
+ColorsForm.BackgroundRadioButton.Caption "~Bakgrund" ***
+ColorsForm.BackgroundRadioButton.Hint "" ***
+ColorsForm.SampleLabel.Caption "Exempeltext:" ***
+ColorsForm.SampleLabel.Hint "" ***
+ColorsForm.ExampleText.Caption "Textexempel" ***
+AutosaveForm.Caption "InstÑllningar autospar" ***
+AutosaveForm.OKButton.Caption "~OK" ***
+AutosaveForm.OKButton.Hint "" ***
+AutosaveForm.CancelButton.Caption "Avbryt" ***
+AutosaveForm.CancelButton.Hint "" ***
+AutosaveForm.HelpButton.Caption "~HjÑlp" ***
+AutosaveForm.HelpButton.Hint "" ***
+AutosaveForm.NoAutoSaveRadioButton.Caption "Ej autospar" ***
+AutosaveForm.NoAutoSaveRadioButton.Hint "Ingen autospar kommer att ske" ***
+AutosaveForm.TimedAutosaveRadioButton.Caption "Sparar varje" ***
+AutosaveForm.TimedAutosaveRadioButton.Hint "Filen sparas efter angivet antal minuter" ***
+AutosaveForm.MinutesLabel.Caption "minuter" ***
+AutosaveForm.MinutesLabel.Hint "" ***
+AutosaveForm.ChangesLabel.Caption "Ñndringar" ***
+AutosaveForm.ChangesLabel.Hint "" ***
+AutosaveForm.ChangesAutosaveRadioButton.Caption "Spara varje" ***
+AutosaveForm.ChangesAutosaveRadioButton.Hint "Filen sparas efter angivet antal Ñndringar" ***
+AutosaveForm.RequireManualSaveCheckBox.Caption "Spara fil manuellt krÑvs innan autospar" ***
+AutosaveForm.RequireManualSaveCheckBox.Hint "Autospar startar inte fîrrÑn fil har sparats manuellt." ***
+AutosaveForm.ErrorTitle "Fel" ***
+AutosaveForm.MinutesError "Antal minuter mÜste vara 1 till 600" ***
+AutosaveForm.NumberChangesError "Antal Ñndringar mÜste vara 10 till 1000" ***
+AEPrintDialog.Caption "Skriv ut" ***
+AEPrintDialog.OKButton.Caption "~OK" ***
+AEPrintDialog.OKButton.Hint "" ***
+AEPrintDialog.SetupPrinterButton.Caption "S~tÑll in..." ***
+AEPrintDialog.SetupPrinterButton.Hint "" ***
+AEPrintDialog.CancelButton.Caption "Avbryt" ***
+AEPrintDialog.CancelButton.Hint "" ***
+AEPrintDialog.HeaderCheckBox.Caption "Sidhu~vud" ***
+AEPrintDialog.HeaderCheckBox.Hint "Skriver filnamn, datum och tid samt sidnummer" ***
+AEPrintDialog.HelpButton.Caption "~HjÑlp" ***
+AEPrintDialog.HelpButton.Hint "" ***
+AEPrintDialog.AllRadioButton.Caption "Alla" ***
+AEPrintDialog.AllRadioButton.Hint "" ***
+AEPrintDialog.SelectionRadioButton.Caption "Urval" ***
+AEPrintDialog.SelectionRadioButton.Hint "Skriver markerad text OBS!, ej implementerad Ñnnu" ***
+AEPrintDialog.PrinterLabel.Caption "~Skrivare:" ***
+AEPrintDialog.PrinterLabel.Hint "" ***
+AEPrintDialog.PrinterSetupTitle "StÑll in skrivare" ***
+AEPrintDialog.PrinterSetupError "Fel vid visa skrivarinstÑllningar: ***
+FindForm.Caption "Sîk text" ***
+FindForm.OKButton.Caption "~OK" ***
+FindForm.OKButton.Hint "" ***
+FindForm.CancelButton.Caption "Avbryt" ***
+FindForm.CancelButton.Hint "" ***
+FindForm.CaseSensitiveCheckBox.Caption "S~kilj pÜ stora/smÜ bokstÑver" ***
+FindForm.CaseSensitiveCheckBox.Hint "" ***
+FindForm.HelpButton.Caption "~HjÑlp" ***
+FindForm.HelpButton.Hint "" ***
+FindForm.FromTopCheckBox.Caption "~FrÜn toppen" ***
+FindForm.FromTopCheckBox.Hint "" ***
+FindForm.TextToFindLabel.Caption "~Sîk:" ***
+FindForm.TextToFindLabel.Hint "" ***
+SaveQueryForm.Caption "Varning: Icke sparade Ñndringar" ***
+SaveQueryForm.MessageLabel.Caption "Vill du spara dina Ñndringar?" ***
+SaveQueryForm.MessageLabel.Hint "" ***
+SaveQueryForm.SaveButton.Caption "~Spara" ***
+SaveQueryForm.SaveButton.Hint "" ***
+SaveQueryForm.DiscardButton.Caption "~Fîrkasta" ***
+SaveQueryForm.DiscardButton.Hint "" ***
+SaveQueryForm.CancelButton.Caption "Avbryt" ***
+SaveQueryForm.CancelButton.Hint "" ***
+ReplaceForm.Caption "ErsÑtt text" ***
+ReplaceForm.CaseSensitiveCheckBox.Caption "S~kilj pÜ stora/smÜ bokstÑver" ***
+ReplaceForm.CaseSensitiveCheckBox.Hint "" ***
+ReplaceForm.FromTopCheckBox.Caption "~FrÜn toppen" ***
+ReplaceForm.FromTopCheckBox.Hint "" ***
+ReplaceForm.FindButton.Caption "~Sîk" ***
+ReplaceForm.FindButton.Hint "" ***
+ReplaceForm.ChangeButton.Caption "~ErsÑtt" ***
+ReplaceForm.ChangeButton.Hint "" ***
+ReplaceForm.ChangeAllButton.Caption "ErsÑtt alla" ***
+ReplaceForm.ChangeAllButton.Hint "" ***
+ReplaceForm.CancelButton.Caption "Avbryt" ***
+ReplaceForm.CancelButton.Hint "" ***
+ReplaceForm.HelpButton.Caption "~HjÑlp" ***
+ReplaceForm.HelpButton.Hint "" ***
+ReplaceForm.ReplaceTextLabel.Caption "~ErsÑtt med:" ***
+ReplaceForm.ReplaceTextLabel.Hint "" ***
+ReplaceForm.TextToFindLabel.Caption "~Sîk:" ***
+ReplaceForm.TextToFindLabel.Hint "" ***

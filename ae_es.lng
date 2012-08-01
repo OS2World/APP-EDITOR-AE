@@ -1,0 +1,200 @@
+MessageForm.OKButtonCaption "~Bien" ***
+MessageForm.CancelButtonCaption "~Cancelar" ***
+MessageForm.HelpButtonCaption "A~yuda" ***
+MessageForm.YesButtonCaption "~S¡" ***
+MessageForm.NoButtonCaption "~No" ***
+TextInputForm.OKButtonCaption "~Bien" ***
+TextInputForm.CancelButtonCaption "~Cancelar" ***
+MainForm.Caption "" ***
+MainForm.FileMenu.Caption "~Archivo" ***
+MainForm.FileMenu.Hint "" ***
+MainForm.FileNewMI.Caption "~Nuevo\tCtrl+N" ***
+MainForm.FileNewMI.Hint "Preparar el editor para un archivo nuevo" ***
+MainForm.FileOpenMI.Caption "~Abrir...\tCtrl+O" ***
+MainForm.FileOpenMI.Hint "Abrir un archivo" ***
+MainForm.FileSaveMI.Caption "~Guardar\tCtrl+S" ***
+MainForm.FileSaveMI.Hint "Guardar el texto a un archivo" ***
+MainForm.FileSaveAsMI.Caption "Guardar ~como..." ***
+MainForm.FileSaveAsMI.Hint "Guardar esta p gina como texto" ***
+MainForm.FileAutosaveMI.Caption "A~utoguardado..." ***
+MainForm.FileAutosaveMI.Hint "Activar o desactivar el guardado autom tico" ***
+MainForm.FilePrintMI.Caption "Im~primir...\tCtrl+P" ***
+MainForm.FilePrintMI.Hint "Imprimir el texto" ***
+MainForm.FileExitMI.Caption "~Salir\tAlt+F4" ***
+MainForm.FileExitMI.Hint "Salir del programa" ***
+MainForm.EditMenu.Caption "~Editar" ***
+MainForm.EditMenu.Hint "" ***
+MainForm.EditUndoMI.Caption "~Deshacer\tAlt+Retroceso" ***
+MainForm.EditUndoMI.Hint "Deshacer el £ltimo cambio" ***
+MainForm.EditCutMI.Caption "Cor~tar\tDesp+Sup" ***
+MainForm.EditCutMI.Hint "Cortar el texto seleccionado al portapapeles" ***
+MainForm.EditCopyMI.Caption "~Copiar\tCtrl+Ins" ***
+MainForm.EditCopyMI.Hint "Copiar el texto seleccionado al portapapeles" ***
+MainForm.EditPasteMI.Caption "~Pegar\tDesp+Ins" ***
+MainForm.EditPasteMI.Hint "Pegar el texto del portapapeles" ***
+MainForm.EditSelectAllMI.Caption "Seleccionar ~todo\tCtrl+A" ***
+MainForm.EditSelectAllMI.Hint "Seleccionar todo el texto" ***
+MainForm.EditFindMI.Caption "~Buscar...\tCtrl+F" ***
+MainForm.EditFindMI.Hint "Buscar una parte del texto" ***
+MainForm.EditFindAgainMI.Caption "Buscar de ~nuevo\tCtrl+G" ***
+MainForm.EditFindAgainMI.Hint "Repetir la £ltima b£squeda" ***
+MainForm.EditReplaceMI.Caption "~Reemplazar...\tCtrl+R" ***
+MainForm.EditReplaceMI.Hint "Reemplazar una parte del texto por otro" ***
+MainForm.OptionsMenu.Caption "~Opciones" ***
+MainForm.OptionsMenu.Hint "" ***
+MainForm.OptionsWrapMI.Caption "A~juste\tCtrl+W" ***
+MainForm.OptionsWrapMI.Hint "Activar o desactivar el ajuste de palabra" ***
+MainForm.OptionsReadOnlyMI.Caption "~S¢lo lectura" ***
+MainForm.OptionsReadOnlyMI.Hint "Permitir o evitar que el texto sea cambiado" ***
+MainForm.OptionsF3KeyActionMI.Caption "Acci¢n de la tecla F3" ***
+MainForm.OptionsF3KeyActionMI.Hint "Establecer el comportamiento de la tecla F3" ***
+MainForm.OptionsF3ExitMI.Caption "~Salir" ***
+MainForm.OptionsF3ExitMI.Hint "La tecla F3 cierra el programa" ***
+MainForm.OptionsF3FindAgainMI.Caption "Buscar de ~nuevo" ***
+MainForm.OptionsF3FindAgainMI.Hint "La tecla F3 repite la £ltima b£squeda" ***
+MainForm.SaveLanguageMI.Caption "Guardar/Actualizar idioma" ***
+MainForm.SaveLanguageMI.Hint "" ***
+MainForm.HelpMenu.Caption "A~yuda" ***
+MainForm.HelpMenu.Hint "" ***
+MainForm.HelpContentsMI.Caption "~Contenidos\tF1" ***
+MainForm.HelpContentsMI.Hint "Mostrar la ayuda" ***
+MainForm.HelpKeysMI.Caption "Ayuda para ~teclas" ***
+MainForm.HelpKeysMI.Hint "Atajos de teclado" ***
+MainForm.HelpProductInformationMI.Caption "Informaci¢n del ~producto" ***
+MainForm.HelpProductInformationMI.Hint "Versi¢n y autor de AE" ***
+MainForm.SaveLanguageError "Error guardando el archivo de idioma " ***
+MainForm.SavedMsg "Guardado: " ***
+MainForm.AutosaveDoneMsg "Auto-guardado " ***
+MainForm.PrintTitle "Imprimir" ***
+MainForm.NoPrinterError "No tiene una impresora configurada." ***
+MainForm.PrintDoneMsg1 "Impresi¢n completa (" ***
+MainForm.PrintDoneMsg2 " p ginas)" ***
+MainForm.HelpTitle "Ayuda del Editor de Texto" ***
+MainForm.ReplaceDoneMsg1 "Reemplazada(s) " ***
+MainForm.ReplaceDoneMsg2 " ocurrencia(s)" ***
+MainForm.NoReplacementsMsg "No se han hecho sustituciones" ***
+MainForm.MatchMsg "Encontrado" ***
+MainForm.NoMatchMsg "No se han encontrado coincidencias" ***
+MainForm.ReadOnlyStatus "S¢lo lectura" ***
+MainForm.ModifiedStatus "Modificado" ***
+MainForm.UntitledTitle "(Sin t¡tulo)" ***
+MainForm.AppTitle "Editor de texto" ***
+MainForm.InsertStatus "INS" ***
+MainForm.OverwriteStatus "SOB" ***
+MainForm.SaveTitle "Guardar archivo" ***
+MainForm.SaveReadonlyError "No se puede guardar a un archivo de s¢lo lectura: " ***
+MainForm.SaveAccessDeniedError "Acceso denegado guardando el archivo: " ***
+MainForm.FileInUseError "El archivo est  siendo usado por otro programa: " ***
+MainForm.FileDoesNotExistError "El archivo no existe: " ***
+MainForm.OpenAccessDeniedError "Acceso denegado: " ***
+MainForm.OpenFileInUseError "El archivo est  siendo usado por otro programa: " ***
+MainForm.SaveError "Error guardando el archivo: " ***
+MainForm.ReplacePrompt "¨Est  seguro de que desea reemplazar este archivo?" ***
+MainForm.NewFileMsg "Nuevo archivo" ***
+MainForm.OpenTitle "Abrir archivo" ***
+MainForm.OpenError "Error abriendo archivo: " ***
+MainForm.OpenedMsg "Abierto: " ***
+MainForm.Usage "Uso" ***
+MainForm.Usage1 "Uso: ae [/read] [<nombredearchivo>]" ***
+MainForm.Usage2 "  /read: establecer de s¢lo lectura" ***
+MainForm.Usage3 "Muestra o edita archivos de texto" ***
+QueryReplaceForm.Caption "Reemplazar" ***
+QueryReplaceForm.MessageLabel.Caption "¨Reemplazar esta ocurrencia?" ***
+QueryReplaceForm.MessageLabel.Hint "" ***
+QueryReplaceForm.YesButton.Caption "~S¡" ***
+QueryReplaceForm.YesButton.Hint "" ***
+QueryReplaceForm.NoButton.Caption "~No" ***
+QueryReplaceForm.NoButton.Hint "" ***
+QueryReplaceForm.CancelButton.Caption "~Cancelar" ***
+QueryReplaceForm.CancelButton.Hint "" ***
+QueryReplaceForm.Button1.Caption "~Todo" ***
+QueryReplaceForm.Button1.Hint "" ***
+ReplaceForm.Caption "Reemplazar texto" ***
+ReplaceForm.OKButton.Caption "~Bien" ***
+ReplaceForm.OKButton.Hint "" ***
+ReplaceForm.CancelButton.Caption "~Cancelar" ***
+ReplaceForm.CancelButton.Hint "" ***
+ReplaceForm.CaseSensitiveCheckBox.Caption "~Sensible a may£sculas y min£sculas" ***
+ReplaceForm.CaseSensitiveCheckBox.Hint "" ***
+ReplaceForm.ConfirmCheckBox.Caption "Confirmar c~ada sustituci¢n" ***
+ReplaceForm.ConfirmCheckBox.Hint "" ***
+ReplaceForm.HelpButton.Caption "A~yuda" ***
+ReplaceForm.HelpButton.Hint "" ***
+ReplaceForm.FromTopCheckBox.Caption "~Desde arriba" ***
+ReplaceForm.FromTopCheckBox.Hint "" ***
+ReplaceForm.ReplaceTextLabel.Caption "~Reemplazar con:" ***
+ReplaceForm.ReplaceTextLabel.Hint "" ***
+ReplaceForm.TextToFindLabel.Caption "~Buscar:" ***
+ReplaceForm.TextToFindLabel.Hint "" ***
+SaveQueryForm.Caption "Aviso: Cambios no guardados" ***
+SaveQueryForm.MessageLabel.Caption "¨Desea guardar los cambios?" ***
+SaveQueryForm.MessageLabel.Hint "" ***
+SaveQueryForm.SaveButton.Caption "~Guardar" ***
+SaveQueryForm.SaveButton.Hint "" ***
+SaveQueryForm.DiscardButton.Caption "~Descartar" ***
+SaveQueryForm.DiscardButton.Hint "" ***
+SaveQueryForm.CancelButton.Caption "~Cancelar" ***
+SaveQueryForm.CancelButton.Hint "" ***
+FindForm.Caption "Buscar texto" ***
+FindForm.OKButton.Caption "~Bien" ***
+FindForm.OKButton.Hint "" ***
+FindForm.CancelButton.Caption "~Cancelar" ***
+FindForm.CancelButton.Hint "" ***
+FindForm.CaseSensitiveCheckBox.Caption "~Sensible a may£sculas y min£sculas" ***
+FindForm.CaseSensitiveCheckBox.Hint "" ***
+FindForm.HelpButton.Caption "A&yuda" ***
+FindForm.HelpButton.Hint "" ***
+FindForm.FromTopCheckBox.Caption "~Desde arriba" ***
+FindForm.FromTopCheckBox.Hint "" ***
+FindForm.TextToFindLabel.Caption "~Buscar:" ***
+FindForm.TextToFindLabel.Hint "" ***
+ProductInformationForm.Caption "Informaci¢n del producto" ***
+ProductInformationForm.TitleLabel.Caption "Editor de texto AE" ***
+ProductInformationForm.TitleLabel.Hint "" ***
+ProductInformationForm.CopyrightLabel.Caption "Copyright 2003 Aaron Lawrence" ***
+ProductInformationForm.CopyrightLabel.Hint "" ***
+ProductInformationForm.OKButton.Caption "~Cerrar" ***
+ProductInformationForm.OKButton.Hint "" ***
+ProductInformationForm.VersionLabel.Caption "VersionLabel" ***
+ProductInformationForm.VersionLabel.Hint "" ***
+AEPrintDialog.Caption "Imprimir" ***
+AEPrintDialog.OKButton.Caption "~Bien" ***
+AEPrintDialog.OKButton.Hint "" ***
+AEPrintDialog.SetupPrinterButton.Caption "C~onfiguraci¢n..." ***
+AEPrintDialog.SetupPrinterButton.Hint "" ***
+AEPrintDialog.CancelButton.Caption "~Cancelar" ***
+AEPrintDialog.CancelButton.Hint "" ***
+AEPrintDialog.HeaderCheckBox.Caption "C~abecera" ***
+AEPrintDialog.HeaderCheckBox.Hint "" ***
+AEPrintDialog.HelpButton.Caption "A&yuda" ***
+AEPrintDialog.HelpButton.Hint "" ***
+AEPrintDialog.AllRadioButton.Caption "~Todo" ***
+AEPrintDialog.AllRadioButton.Hint "" ***
+AEPrintDialog.SelectionRadioButton.Caption "S~elecci¢n" ***
+AEPrintDialog.SelectionRadioButton.Hint "" ***
+AEPrintDialog.PrinterLabel.Caption "Im~presora:" ***
+AEPrintDialog.PrinterLabel.Hint "" ***
+AEPrintDialog.PrinterSetupTitle "Configurar impresora" ***
+AEPrintDialog.PrinterSetupError "Error mostrando las opciones de impresora: " ***
+AutosaveForm.Caption "Configuraci¢n del guardado autom tico" ***
+AutosaveForm.OKButton.Caption "~Bien" ***
+AutosaveForm.OKButton.Hint "" ***
+AutosaveForm.CancelButton.Caption "~Cancelar" ***
+AutosaveForm.CancelButton.Hint "" ***
+AutosaveForm.HelpButton.Caption "A&yuda" ***
+AutosaveForm.HelpButton.Hint "" ***
+AutosaveForm.NoAutoSaveRadioButton.Caption "Sin guardado autom tico" ***
+AutosaveForm.NoAutoSaveRadioButton.Hint "No habr  guardado autom tico." ***
+AutosaveForm.TimedAutosaveRadioButton.Caption "Guardar cada" ***
+AutosaveForm.TimedAutosaveRadioButton.Hint "El archivo se guardar  despu‚s de los minutos especificados" ***
+AutosaveForm.MinutesLabel.Caption "minutos" ***
+AutosaveForm.MinutesLabel.Hint "" ***
+AutosaveForm.ChangesLabel.Caption "cambios" ***
+AutosaveForm.ChangesLabel.Hint "" ***
+AutosaveForm.ChangesAutosaveRadioButton.Caption "Guardar cada" ***
+AutosaveForm.ChangesAutosaveRadioButton.Hint "El archivo se guardar  despu‚s del n£mero de cambios especificados" ***
+AutosaveForm.RequireManualSaveCheckBox.Caption "Requiere guardado manual para comenzar" ***
+AutosaveForm.RequireManualSaveCheckBox.Hint "El autoguardado no comenzar  hasta que se haga un guardado manual." ***
+AutosaveForm.ErrorTitle "Error" ***
+AutosaveForm.MinutesError "El n£mero de minutos debe estar entre 1 y 600" ***
+AutosaveForm.NumberChangesError "El n£mero de cambios debe estar entre 10 y 1000" ***

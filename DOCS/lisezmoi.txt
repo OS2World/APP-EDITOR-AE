@@ -1,0 +1,231 @@
+==================================
+AE - diteur de texte rempla‡ant E
+==================================
+
+AE est un ‚diteur de texte simple, destin‚ … remplacer l'‚diteur E.EXE original d'IBM dans OS/2. Il se comporte … peu prŠs de la mˆme maniŠre, except‚s les quelques comportements devenus ennuyeux, incongrus et incoh‚rents que pr‚sentent les autres programmes et/ou systŠmes. 
+
+
+Licence
+-------
+
+AE est un partagiciel, et peut ˆtre utilis‚ gratuitement dans des applications commerciales, tant que les informations sur l'auteur, sont incluses et mise … la disposition de l'utilisateur : 
+
+Aaron Lawrence (aaronl at consultant dot com)
+
+AE reste un Copyright 2004 Aaron Lawrence.
+
+
+Fonctionnalit‚s
+---------------
+
+Corrige les stupidit‚s de E comme : 
+- boŒte de dialogue "Type de fichiers", 
+- octet EOF (Hex 1C, Dec 26) ajout‚ … la fin des fichiers, 
+- Maj + Page Haut/Bas ne s‚lectionne pas, 
+- Ctrl + Page Haut/Bas ne fait rien d'utile, 
+- refus de sauvegarder le fichier quand il pense qu'il n'a pas ‚t‚ modifi‚, 
+- Attributs tendus requis au moment de la sauvegarde, 
+- pas de "Fichier" \ "Quitter", 
+- recherche et remplacement combin‚s, 
+- commutateur de retour automatique … la ligne particulier, 
+- pas de raccourcis clavier pour l'ouverture de fichier, etc., 
+- pas d'affichage de la ligne, colonne et mode, 
+- l'entr‚e de la liste des tƒches n'affiche pas le nom du fichier ouvert, 
+- espace vide … la fin de la barre de d‚filement verticale, 
+- barre de d‚filement horizontale idiote lors d'un retour automatique … la ligne. 
+
+Am‚liorations (intentionnellement minimales ! ) : 
+- sauvegarde automatique minut‚e ainsi qu'au nombre de modifications, 
+- impression, 
+- si le fichier est en lecture seule, le texte est (initialement) en lecture seule. 
+
+
+Installation
+------------
+
+Vous voudrez probablement faire ‡a : 
+
+placer ae.exe dans x:\os2
+placer ae.hlp idans x:\os2\help
+(o— 'x' est la lettre de l'unit‚ d'amor‡age d'OS/2)
+
+ou sur eCS : 
+
+placer ae.exe dans x:\ecs\bin
+placer ae.hlp dans x:\ecs\help
+(o— 'x' est la lettre de l'unit‚ d'amor‡age d'eCS)
+
+Et vous voudrez certainement renommer ae.exe en e.exe, aprŠs avoir sauvegard‚ l'ancien fichier e.exe. (NE renommez PAS le fichier d'aide). 
+
+
+ProblŠmes connus
+----------------
+
+Il s'agit un logiciel en version bˆta. Je vous recommande la plus grande prudence ! Il y a une probabilit‚ pour qu'il mette le feu … votre maison et zigouille toute votre famille sans crier gare. 
+
+*** Avertissement ***
+Si vous avez l'intention d'utiliser AE pour ‚diter des documents cons‚quents ou importants, veuillez alors faire des tests avant de commencer. Personne n'a encore effectu‚ ce genre de test. J'ai moi-mˆme test‚ avec diverses tailles de fichiers, mais pas de maniŠre exhaustive. Si vous avez effectu‚ des tests intensifs dans ce sens, faites-le moi savoir afin que je retire cet avertissement. 
+
+AE N'effectue PAS (encore) de sauvegarde du fichier original. 
+*********************
+
+Int‚gration dans DragText : ‡a fonctionne, mais vous devez utiliser la fonction "re-enable" dans DragText. 
+ - Dans le bloc-notes des options de DT, ouvrez Setup->Reenable
+ - Entrez AE.EXE dans le champ 'Program'
+ - V‚rifiez que pour 'Drag' et 'Drop' les types de fenˆtres suivants son d‚finis : 
+   "Multi-line EFs", "Entry Fields" et "List Boxes"
+ - Appuyez sur le bouton 'Add'. 
+
+Limitations de l'‚dition multi-lignes de PM (multi-line edit ou MLE) : 
+- l'affichage des num‚ros de ligne/colonne ne fonctionne pas en mode retour de ligne automatique, 
+- les D‚coupage/Copie/Collage sont limit‚s … 64ko comme avec le vieux E, 
+Ceci requiererait un effort important pour les corriger et ce n'est donc pas prŠs d'arriver. 
+
+Si vous obtenez l'‚cran d'usage en lan‡ant AE depuis le bureau, c'est que le WPS a d– ajouter le nom de dossier dans le champ des paramŠtres. 
+Essayez d'ajouter un caractŠre % … la fin des paramŠtres. Par exemple : 
+ParamŠtres :    c:\config.sys %
+Cela ‚vitera au nom de fichier d'ˆtre ajout‚. 
+(Remerciement … Paul Ratcliffe)
+
+Historique
+----------
+
+1.8.3
+  BoŒte de dialogue Rechercher/Remplacer … pr‚sent non modale comme l'ancien E 
+  Le position initiale est centr‚e sur l'‚cran 
+  Le fichier d'aide propre peut … pr‚sent ˆtre sp‚cifique … la langue, comme pour l'interface 
+  Recherche des fichiers de langue dans %OSDIR%\lang et %ULSPATH% 
+
+1.6.10
+  Correction de la boŒte de dialogue afin qu'elle affiche les fichiers existants 
+  L'option remplacement "depuis le d‚but" fonctionne 
+  Message d'avertissement optionnel … l'ouverture de gros fichiers. 
+  Pointeur "Attente" lors du chargement 
+  Espace pour les traducteurs puissent placer un message (ne serait-ce que leur nom) dans la boŒte de dialogue d'information produit 
+  Michal Pohorelsky - version tchŠque
+  Jan Magne Landsvik - version norv‚gienne
+  Mise … jour de la version fran‡aise par Guillaume Gay
+  Am‚lioration du support du clavier dans les boŒtes de dialogue
+
+1.6.5
+  Param‚trage des polices et couleurs depuis le programme
+  Correction de quelques erreurs au chargement des traductions
+  Mise … jour dans les traductions
+
+1.5.5
+  Permet l'entr‚e de tabulations
+  Menu contextuel pour l'‚dition
+  Mise … jour de l'aide
+
+1.5.1
+  REMARQUE ! Les fichiers de langue sont … pr‚sent nomm‚s ae_<langue>.lng
+  Ajout de traductions, merci … tous
+    Guillaume Gay (Fran‡ais)
+    Gabriele Gamba (Italien)
+    Simon Gronlund (Su‚dois)
+    Salvador Parra Camacho (Espagnol)
+    Dieter Wachsmuth (Allemand)
+    D.J. van Enckevort (N‚erlandais)
+      (ainsi que Frank Vos et Kris Steenhaut)     
+  Correction d'un bug … la sauvegarde de fichiers > 64ko
+  Correction de la sp‚cification d'un nouveau fichier depuis la ligne de commandes
+  Affichage du statut des modifications (i.e. enlŠve le "modifi‚" aprŠs la sauvegarde)
+  EXE de taille normale ! 
+
+1.4.4
+  Correction des page Haut/Bas
+  Impl‚mentation du paramŠtre de ligne de commandes /read
+  Trouve son propre fichier d'aide dans le r‚pertoire de l'application
+
+1.4.2
+  Support multilingue comme pour NewView (c.f. la fin du fichier)
+  Correction de la sauvegarde du retour de ligne automatique
+
+1.3.0
+  Correction de la sauvegarde de fichiers sans extension - pas d'ajout de ..txt
+  Option d'impression de la s‚lection
+  Correction de la longue liste d'imprimante
+  D‚pose d'un fichier sur la fenˆtre pour l'ouvrir
+
+1.2.3
+  Suppression de la limite des 64ko (tron‡onnage du fichier ! )
+  Sauvegarde automatique
+  Restructuration interne pour une meilleure performance avec les gros fichiers
+  Ajout de l'option "Depuis le d‚but" pour les recherche et remplacement
+  Affichage de l'indicateur "modifi‚"
+  D‚sactivation des D‚coupage/Collage/Remplacement en lecture seule
+  Touches suppl‚mentaires
+    F2 = Sauvegarde (comme dans EPM)
+    F3 = Quitter
+         par d‚faut - peut ˆtre chang‚ en "Poursuivre la recherche"
+    Ctrl+D Sauvegarde en...
+    Ctrl+W Retour … la ligne automatique EF/HF
+    Ctrl+A S‚lectionner tout
+  Correction d'un bug de corruption de m‚moire
+  Encore plus d'aide
+
+1.0.7
+  Suppression de l'espace vide par d‚faut en bas du texte
+    (comportement idiot de la barre de d‚filement vertical)
+  BoŒte de dialogue d'information produit au standard eCS
+  Police de menu standard
+  Pas d'affichage des ligne/colonnes (erron‚es) lors d'un retour … la ligne automatique
+  Num‚ro de version BldLevel
+ 
+1.0.6
+  Correction du blocage pendant l'impression
+  Pas de barre de d‚filement automatique quand il y a retour … la ligne automatique
+  Possibilit‚ de charger des fichiers sans extension
+
+1.0.5 
+  Sortie publique
+  Ou alors ‚tait-ce une autre version.
+
+Support multilingue
+-------------------
+
+AE peut charger diff‚rentes langues pour son interface utilisateur. 
+
+Il recherche un fichier particulier dans son propre dossier. Le nom de fichier d‚bute par 'ae_' et porte l'extension '.lng'. Le fichier particulier lanc‚ est fonction de la variable d'environnement LANG d‚finie dans le systŠme. Par exemple sur les systŠmes US, c'est LANG=EN_US et c'est donc ae_en_us.lng qui sera recherch‚. S'il est introuvable, c'est la partie principale de la variable LANG qui sera utilis‚e pour la recherche, dans notre exemple : ae_en.lng. Sinon, c'est l'anglais US qui est utilis‚ par d‚faut. Cette langue est int‚gr‚e dans l'ex‚cutable et vous devrez relancer le programme pour l'obtenir). 
+
+Normalement, les traductions ne sont pas destin‚es … une r‚gion particuliŠre, ainsi, les fichiers fournis avec AE sont de la forme (par exemple) ae_es.lng, et non pas ae_es_es.lng. 
+
+- O— les fichiers de langues r‚sident-ils ? 
+
+Les fichiers de langues seront recherch‚s (dans l'ordre) dans : 
+  - %OSDIR%\lang  (eCS v1.1+)
+  - %ULSPATH%
+  - le R‚pertoire de l'application
+
+- Cr‚ation d'un nouveau fichier de langue
+
+Vous pouvez facilement cr‚er un fichier de traduction pour AE. Utilisez "Options" / "Sauvegarde/M. … J. de la langue" pour cr‚er un nouveau fichier .lng. Ce fichier .lng contiendra tous les ‚l‚ments de texte employ‚s par le programme. Traduisez les chaŒnes de texte entre guillemets et sauvegardez-le. 
+
+Vous pouvez nommer le fichier .lng comme vous voulez, mais suivez les rŠgles ci-dessus si vous voulez qu'il soit automatiquement charg‚. 
+
+Si vous m'envoyez vos traductions, je les incluerai dans les prochaines versions. Pour vous ‚conomiser du temps, demandez-moi avant de commencer une traduction au cas o— quelqu'un en aurait d‚j… fait une. 
+
+Remarques : 
+Un "~" (tilde) dans le texte indique que la lettre qui suit sera soulign‚e et utilis‚e comme touche de raccourcis (Vous pourrez aussi voir "&" (et commercial) qui fait la mˆme chose, mais qui ne fonctionne pas aussi bien - veuillez m'informer si une telle chose apparaissait). 
+
+Un "\t" dans le texte indique un caractŠre de tabulation et est utilis‚ pour s‚parer un ‚l‚ment de menu de sa touche "d'acc‚l‚ration" ou de sa combinaison de touche. De toutes maniŠres, vous NE pouvez PAS modifier l'acc‚l‚rateur vous mˆme, par exemple F3 pour quitter par telle ou telle touche. Veuillez donc laisser la partie aprŠs le "\t" telle quelle.
+
+- Mise … jour d'un fichier de langue existant
+
+Si vous avez d‚j… un fichier mais qui n‚cessite une mise … jour - peut-ˆtre pour une nouvelle version du programme - vous n'avez alors qu'… sauvegarder le fichier une nouvelle fois. Les nouveaux ‚l‚ments devant ˆtre traduits seront ajout‚s et les ‚l‚ments qui ne sont plus n‚cessaires seront retir‚s. 
+
+
+Les ‚l‚ments inutiles sont tout de mˆme laiss‚s … la fin du fichier pour que vous puissiez v‚rifier; supprimez les aprŠs l'avoir fait pour gagner de l'espace. Notez que certains ‚l‚ments peuvent ˆtre juste renomm‚s, auquel cas vous aurez … copier la valeur de l'ancien ‚l‚ment vers le nouveau (d‚sol‚ ! ). 
+
+Les nouveaux ‚l‚ments n‚cessitant une traduction seront suivis par "***". 
+
+Remarque : malheureusement tous les commentaires que vous aurez pu ajouter au fichier seront perdus … la sauvegarde ou mise … jour. 
+
+Fichier d'aide multilingue
+--------------------------
+
+Suivant la mˆme logique, AE peut charger une version sp‚cifique … la langue de son propre fichier d'aide. Il recherchera un fichier ae_XXX.hlp, o— XXX est d‚riv‚ de la variable LANG comme pour les fichiers .LNG de la pr‚c‚dente section. 
+
+Comme point de d‚part, vous pouvez prendre le fichier AE.IPF inclus. Remarquez que je NE l'utilise PAS comme source; ce fichier est g‚n‚r‚ par VyperHelp. Ce fichier n'est pas … installer, il est juste inclus dans le fichier ZIP. 
+
+-- fin --

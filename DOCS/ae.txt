@@ -1,0 +1,36 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: XXXXX.zip
+       Short Description: Replacement for E.EXE
+        Long Description: Fixes most of the annoying things 
+                          about IBM E.EXE.
+1.9.8
+  Fix for repeated DBCS characters 
+   Thanks to "Average" & Teijo Kakkinen from Japan 
+  Added help section on supported file formats.
+  Handles Unix-format text files (LF only).
+  AE can be killed without seeing an error message.
+  Status bar and dialogs scale to suit system fonts.
+  Status messages cleared when file edited.
+  Status shown as "new" until first save.
+  Updated translations from:
+   Guillaume Gay (French), Jacques van Leeuwen (Dutch), 
+   Bj”rn S”derstr”m (Swedish), 
+   Dieter Wachsmuth and the Dresden OS/2 User Group (German)
+
+      Proposed directory
+           for placement: /pub/os2/apps/misc
+
+               Your name: Aaron Lawrence 
+           Email address: aaronl at consultant dot com
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: 
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: 
+ Additional requirements: 

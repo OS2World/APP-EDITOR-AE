@@ -1,0 +1,386 @@
+MessageForm.OKButtonCaption "~OK" ***
+MessageForm.CancelButtonCaption "~Abbruch" ***
+MessageForm.HelpButtonCaption "~Hilfe" ***
+MessageForm.YesButtonCaption "~Ja" ***
+MessageForm.NoButtonCaption "~Nein" ***
+TextInputForm.OKButtonCaption "~OK" ***
+TextInputForm.CancelButtonCaption "~Abbruch" ***
+MainForm.Caption "" ***
+MainForm.FileMenu.Caption "~Datei" ***
+MainForm.FileMenu.Hint "" ***
+MainForm.FileNewMI.Caption "~Neu\tStrg+N" ***
+MainForm.FileNewMI.Hint "Fensterinhalt lîschen fÅr eine neue Datei" ***
+MainForm.FileOpenMI.Caption "~ôffnen...\tStrg+O" ***
+MainForm.FileOpenMI.Hint "Datei îffnen" ***
+MainForm.FileSaveMI.Caption "~Sichern\tStrg+S" ***
+MainForm.FileSaveMI.Hint "Text als Datei sichern" ***
+MainForm.FileSaveAsMI.Caption "Sichern ~unter...\tStrg+D" ***
+MainForm.FileSaveAsMI.Hint "Text als Datei unter anderem Namen sichern" ***
+MainForm.FileAutosaveMI.Caption "~Automatisch sichern..." ***
+MainForm.FileAutosaveMI.Hint "Automatisches Sichern ein-/ausschalten" ***
+MainForm.FilePrintMI.Caption "~Drucken...\tStrg+P" ***
+MainForm.FilePrintMI.Hint "Drucke Text" ***
+MainForm.FileExitMI.Caption "~Beenden\tAlt+F4" ***
+MainForm.FileExitMI.Hint "Beenden" ***
+MainForm.EditMenu.Caption "~Editieren" ***
+MainForm.EditMenu.Hint "" ***
+MainForm.EditUndoMI.Caption "~RÅckgÑngig\tAlt+BkSp" ***
+MainForm.EditUndoMI.Hint "Letzte énderung rÅckgÑngig" ***
+MainForm.EditCutMI.Caption "A~usschneiden\tUmsch+Entf" ***
+MainForm.EditCutMI.Hint "Ausschneiden und in die Zwischenablage einfÅgen" ***
+MainForm.EditCopyMI.Caption "~Kopieren\tStrg+Einfg" ***
+MainForm.EditCopyMI.Hint "Aktuelle Auswahl in die Zwischenablage kopieren" ***
+MainForm.EditPasteMI.Caption "~EinfÅgen\tUmsch+Einfg" ***
+MainForm.EditPasteMI.Hint "EinfÅgen aus der Zwischenablage" ***
+MainForm.EditSelectAllMI.Caption "~Alles auswÑhlen\tStrg+A" ***
+MainForm.EditSelectAllMI.Hint "Gesamten Text auswÑhlen" ***
+MainForm.EditFindMI.Caption "~Suchen...\tStrg+F" ***
+MainForm.EditFindMI.Hint "Suche nach Textausschnitt" ***
+MainForm.EditFindAgainMI.Caption "~Weitersuchen\tStrg+G" ***
+MainForm.EditFindAgainMI.Hint "Letzte Suche wiederholen" ***
+MainForm.EditReplaceMI.Caption "Erse~tzen...\tStrg+R" ***
+MainForm.EditReplaceMI.Hint "Textausschnitt suchen und mit anderem ersetzen" ***
+MainForm.OptionsMenu.Caption "~Optionen" ***
+MainForm.OptionsMenu.Hint "" ***
+MainForm.OptionsWrapMI.Caption "~Zeilenumbruch\tStrg+W" ***
+MainForm.OptionsWrapMI.Hint "Zeilenumbruch ein-/ausschalten" ***
+MainForm.OptionsReadOnlyMI.Caption "~Nur lesen" ***
+MainForm.OptionsReadOnlyMI.Hint "Erlaubt oder verhindert DokumentÑnderung" ***
+MainForm.OptionsCodePageMI.Caption "Zeichen~kodierung" ***
+MainForm.OptionsCodePageMI.Hint "Zeichenkodierung zur Anzeige auswÑhlen" ***
+MainForm.OptionsFontMI.Caption "~Schriftart..." ***
+MainForm.OptionsFontMI.Hint "AuswÑhlen der Editor-Schriftart" ***
+MainForm.OptionsColorsMI.Caption "~Farben..." ***
+MainForm.OptionsColorsMI.Hint "AuswÑhlen der Editor-Farben" ***
+MainForm.OptionsF3KeyActionMI.Caption "F3 Tastenbelegung" ***
+MainForm.OptionsF3KeyActionMI.Hint "Einstellung der Funktionstaste F3" ***
+MainForm.OptionsF3ExitMI.Caption "~Beenden" ***
+MainForm.OptionsF3ExitMI.Hint "Einstellung F3: AE beenden" ***
+MainForm.OptionsF3FindAgainMI.Caption "~Weitersuchen" ***
+MainForm.OptionsF3FindAgainMI.Hint "Einstellung F3: Weitersuchen" ***
+MainForm.SaveLanguageMI.Caption "Sprache sichern/aktualisieren" ***
+MainForm.SaveLanguageMI.Hint "" ***
+MainForm.HelpMenu.Caption "~Hilfe" ***
+MainForm.HelpMenu.Hint "" ***
+MainForm.HelpContentsMI.Caption "~Hilfeindex\tF1" ***
+MainForm.HelpContentsMI.Hint "ôffnet Hilfe fÅr Editor" ***
+MainForm.HelpKeysMI.Caption "Hilfe fÅr Tasten" ***
+MainForm.HelpKeysMI.Hint "Tastatur Shortcuts" ***
+MainForm.HelpProductInformationMI.Caption "~Produktinformation" ***
+MainForm.HelpProductInformationMI.Hint "Version anzeigen" ***
+MainForm.OpenDialog.OKName "ôffnen" ***
+MainForm.OpenDialog.Title "Datei îffnen" ***
+MainForm.SaveDialog.OKName "Sichern" ***
+MainForm.SaveDialog.Title "" ***
+MainForm.EditCutPMI.Caption "A~usschneiden" ***
+MainForm.EditCutPMI.Hint "" ***
+MainForm.EditCopyPMI.Caption "~Kopieren" ***
+MainForm.EditCopyPMI.Hint "" ***
+MainForm.EditPastePMI.Caption "~EinfÅgen" ***
+MainForm.EditPastePMI.Hint "" ***
+MainForm.EditSelectAllPMI.Caption "~Alles auswÑhlen" ***
+MainForm.EditSelectAllPMI.Hint "" ***
+MainForm.FontDialog.Caption "Schriftart auswÑhlen" ***
+MainForm.FontDialog.NameLabel.Caption "~Name:" ***
+MainForm.FontDialog.NameLabel.Hint "" ***
+MainForm.FontDialog.StyleLabel.Caption "S~chnitt:" ***
+MainForm.FontDialog.StyleLabel.Hint "" ***
+MainForm.FontDialog.BoldCheck.Caption "~Fett (Simuliert)" ***
+MainForm.FontDialog.BoldCheck.Hint "" ***
+MainForm.FontDialog.ItalicCheck.Caption "~Italic (Simuliert)" ***
+MainForm.FontDialog.ItalicCheck.Hint "" ***
+MainForm.FontDialog.UnderscoreCheck.Caption "~Unterstrichen" ***
+MainForm.FontDialog.UnderscoreCheck.Hint "" ***
+MainForm.FontDialog.OutlineCheck.Caption "~Outline" ***
+MainForm.FontDialog.OutlineCheck.Hint "" ***
+MainForm.FontDialog.StrikeOutCheck.Caption "Du~rchgestrichen" ***
+MainForm.FontDialog.StrikeOutCheck.Hint "" ***
+MainForm.FontDialog.SizeLabel.Caption "~Grî·e:" ***
+MainForm.FontDialog.SizeLabel.Hint "" ***
+MainForm.FontDialog.ActualFaceLabel.Caption "" ***
+MainForm.FontDialog.ActualFaceLabel.Hint "" ***
+MainForm.FontDialog.OKButton.Caption "~OK" ***
+MainForm.FontDialog.OKButton.Hint "" ***
+MainForm.FontDialog.CancelButton.Caption "Abbruch" ***
+MainForm.FontDialog.CancelButton.Hint "" ***
+MainForm.MenuItem.Caption "~1. Multilingual Latin 1 (850)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "~2. US (437)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "US (437)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Multilingual Latin 1 (850)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Windows Extended (1004)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Latin 2 (912)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Latin 2 Windows (1250)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Europe" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Greece ISO (813)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Latin 2 - Eastern Europe (852)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Cyrillic (855)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Latin 5 Turkey (857)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Latin 9 (859)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Portugal (860)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Iceland (861)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Hebrew (862)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Nordic (865)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Russia (866)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Greek PC (869)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Russian Internet (878)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Cyrillic (915)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Baltic (921)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Estonia (922)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Belarus (1131)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Ukraine (1125)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Cyrillic Windows (1251)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Latin 1 Windows (1252)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Greek Windows (1253)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Turkish Windows (1254)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Baltic Windows (1257)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Middle East" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Hebrew (old) (856)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Arabic (864)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Hebrew Windows (1255)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Arabic Windows (1256)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Asia" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Taiwan (938)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Japan JIS-78 (942)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Japan JIS-90 (943)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Korea KS-code (949)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Taiwan Big-5 (950)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Thai (874)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "China GB (1381)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "EBCDIC" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "US (37)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Arabic (420)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Hebrew (424)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "International (500)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Latin 9 (924)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "United States (1140)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Germany (1141)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Denmark, Norway (1142)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Finland, Sweden (1143)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Italy (1144)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Spain (1145)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "UK, Ireland (1146)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "France (1147)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Latin 1 (1148)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Weitere" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Latin 9 (923)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Canadian French (863)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Latin 1 Apple (1275)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "~Benutzerdefiniert..." ***
+MainForm.MenuItem.Hint "" ***
+MainForm.SaveLanguageError "Fehler beim Sichern der Sprachdatei " ***
+MainForm.SavedMsg "Gesichert: " ***
+MainForm.AutosaveDoneMsg "Automatische Sicherung durchgefÅhrt" ***
+MainForm.PrintTitle "Drucken" ***
+MainForm.NoPrinterError "Kein Drucker eingerichtet." ***
+MainForm.PrintDoneMsg1 "Ausdruck fertig von (" ***
+MainForm.PrintDoneMsg2 " Seiten)" ***
+MainForm.HelpTitle "Texteditor Hilfe" ***
+MainForm.ReplaceDoneMsg1 "Ersetzt wurde(n) " ***
+MainForm.ReplaceDoneMsg2 " öbereinstimmung(en)" ***
+MainForm.NoReplacementsMsg "Nichts ersetzt" ***
+MainForm.MatchMsg "Gefunden" ***
+MainForm.NoMatchMsg "Keine öbereinstimmung gefunden" ***
+MainForm.ReadOnlyStatus "Nur lesen" ***
+MainForm.ModifiedStatus "GeÑndert" ***
+MainForm.UntitledTitle "(Unbenannt)" ***
+MainForm.AppTitle "Text Editor" ***
+MainForm.InsertStatus "Einfg" ***
+MainForm.OverwriteStatus "öber" ***
+MainForm.SaveTitle "Datei sichern" ***
+MainForm.SaveReadonlyError "SchreibgeschÅtzte Datei kann nicht gesichert werden: " ***
+MainForm.SaveAccessDeniedError "Zugriff verweigert beim Sichern von: " ***
+MainForm.FileInUseError "Datei ist in Benutzung durch anderes Programm: " ***
+MainForm.FileDoesNotExistError "Datei nicht vorhanden: " ***
+MainForm.OpenAccessDeniedError "Zugriff verweigert: " ***
+MainForm.OpenFileInUseError "Datei ist in Benutzung durch anderes Programm: " ***
+MainForm.SaveError "Fehler beim Sichern der Datei: " ***
+MainForm.ReplacePrompt "Die Datei existiert bereits. Soll sie Åberschrieben werden?" ***
+MainForm.NewFileMsg "Neue Datei" ***
+MainForm.OpenTitle "Datei îffnen" ***
+MainForm.OpenError "Fehler beim ôffnen der Datei: " ***
+MainForm.OpenedMsg "Geîffnet: " ***
+MainForm.Usage "Usage" ***
+MainForm.Usage1 "Benutzung: ae [/read] [<Dateiname>]" ***
+MainForm.Usage2 "  /read: Nur Lese-Modus" ***
+MainForm.Usage3 "Anzeigen oder Bearbeiten von Textdateien" ***
+MainForm.PrintingPageMsg "Drucke: Seite " ***
+ReplaceForm.Caption "Ersetze Text" ***
+ReplaceForm.CaseSensitiveCheckBox.Caption "~Gro·-/Kleinschreibung beachten" ***
+ReplaceForm.CaseSensitiveCheckBox.Hint "" ***
+ReplaceForm.FromTopCheckBox.Caption "~Von vorn beginnen" ***
+ReplaceForm.FromTopCheckBox.Hint "" ***
+ReplaceForm.FindButton.Caption "~Suche" ***
+ReplaceForm.FindButton.Hint "" ***
+ReplaceForm.ChangeButton.Caption "~Ersetze" ***
+ReplaceForm.ChangeButton.Hint "" ***
+ReplaceForm.ChangeAllButton.Caption "Ersetze ~alle" ***
+ReplaceForm.ChangeAllButton.Hint "" ***
+ReplaceForm.CancelButton.Caption "Abbruch" ***
+ReplaceForm.CancelButton.Hint "" ***
+ReplaceForm.HelpButton.Caption "~Hilfe" ***
+ReplaceForm.HelpButton.Hint "" ***
+ReplaceForm.TextToFindLabel.Caption "~Suchen:" ***
+ReplaceForm.TextToFindLabel.Hint "" ***
+ReplaceForm.ReplaceTextLabel.Caption "E~rsetzen mit:" ***
+ReplaceForm.ReplaceTextLabel.Hint "" ***
+LargeFileWarningForm.Caption "Warnung Dateigrî·e" ***
+LargeFileWarningForm.OKButton.Caption "~OK" ***
+LargeFileWarningForm.OKButton.Hint "" ***
+LargeFileWarningForm.CancelButton.Caption "Abbruch" ***
+LargeFileWarningForm.CancelButton.Hint "" ***
+LargeFileWarningForm.WarningLabel.Caption "Diese Datei ist grî·er als 1MB. Das ôffnen kann lÑnger dauern. Trotzdem fortsetzen?" ***
+LargeFileWarningForm.WarningLabel.Hint "" ***
+LargeFileWarningForm.NotAgainCheckBox.Caption "~Diese Warnung nicht mehr anzeigen" ***
+LargeFileWarningForm.NotAgainCheckBox.Hint "" ***
+LargeFileWarningForm.HelpButton.Caption "~Hilfe" ***
+LargeFileWarningForm.HelpButton.Hint "" ***
+SaveQueryForm.Caption "Achtung: énderungen nicht gesichert" ***
+SaveQueryForm.MessageLabel.Caption "énderungen sichern?" ***
+SaveQueryForm.MessageLabel.Hint "" ***
+SaveQueryForm.SaveButton.Caption "~Sichern" ***
+SaveQueryForm.SaveButton.Hint "" ***
+SaveQueryForm.DiscardButton.Caption "~Verwerfen" ***
+SaveQueryForm.DiscardButton.Hint "" ***
+SaveQueryForm.CancelButton.Caption "Abbruch" ***
+SaveQueryForm.CancelButton.Hint "" ***
+AEPrintDialog.Caption "Drucken" ***
+AEPrintDialog.OKButton.Caption "~OK" ***
+AEPrintDialog.OKButton.Hint "" ***
+AEPrintDialog.SetupPrinterButton.Caption "~Einrichtung..." ***
+AEPrintDialog.SetupPrinterButton.Hint "" ***
+AEPrintDialog.CancelButton.Caption "Abbruch" ***
+AEPrintDialog.CancelButton.Hint "" ***
+AEPrintDialog.HeaderCheckBox.Caption "ö~berschrift" ***
+AEPrintDialog.HeaderCheckBox.Hint "" ***
+AEPrintDialog.HelpButton.Caption "&Hilfe" ***
+AEPrintDialog.HelpButton.Hint "" ***
+AEPrintDialog.AllRadioButton.Caption "Alles" ***
+AEPrintDialog.AllRadioButton.Hint "" ***
+AEPrintDialog.SelectionRadioButton.Caption "Auswahl" ***
+AEPrintDialog.SelectionRadioButton.Hint "" ***
+AEPrintDialog.PrinterLabel.Caption "~Drucker:" ***
+AEPrintDialog.PrinterLabel.Hint "" ***
+AEPrintDialog.PrinterSetupTitle "Druckereinrichtung" ***
+AEPrintDialog.PrinterSetupError "Fehler bei der Anzeige der Druckeroptionen: " ***
+AutosaveForm.Caption "Einstellungen automatisches Sichern" ***
+AutosaveForm.OKButton.Caption "~OK" ***
+AutosaveForm.OKButton.Hint "" ***
+AutosaveForm.CancelButton.Caption "Abbruch" ***
+AutosaveForm.CancelButton.Hint "" ***
+AutosaveForm.HelpButton.Caption "&Hilfe" ***
+AutosaveForm.HelpButton.Hint "" ***
+AutosaveForm.NoAutoSaveRadioButton.Caption "Kein automatisches Sichern" ***
+AutosaveForm.NoAutoSaveRadioButton.Hint "Automatisches Sichern ausgeschaltet." ***
+AutosaveForm.TimedAutosaveRadioButton.Caption "Alles sichern nach" ***
+AutosaveForm.TimedAutosaveRadioButton.Hint "Datei wird nach angegebener Zeit gesichert" ***
+AutosaveForm.MinutesLabel.Caption "Minuten" ***
+AutosaveForm.MinutesLabel.Hint "" ***
+AutosaveForm.ChangesLabel.Caption "énderungen" ***
+AutosaveForm.ChangesLabel.Hint "" ***
+AutosaveForm.ChangesAutosaveRadioButton.Caption "Alles sichern nach" ***
+AutosaveForm.ChangesAutosaveRadioButton.Hint "Datei wird nach angegebener Anzahl von énderungen gesichert" ***
+AutosaveForm.RequireManualSaveCheckBox.Caption "Manuelles Sichern erforderlich fÅr Start" ***
+AutosaveForm.RequireManualSaveCheckBox.Hint "Einmaliges Sichern erforderlich fÅr automatisches Sichern!" ***
+AutosaveForm.ErrorTitle "Error" ***
+AutosaveForm.MinutesError "Wert mu· zwischen 1 und 600 liegen!" ***
+AutosaveForm.NumberChangesError "Wert mu· zwischen 10 und 1000 liegen!" ***
+ColorsForm.Caption "Farben" ***
+ColorsForm.OKButton.Caption "~OK" ***
+ColorsForm.OKButton.Hint "" ***
+ColorsForm.CancelButton.Caption "Abbruch" ***
+ColorsForm.CancelButton.Hint "" ***
+ColorsForm.HelpButton.Caption "&Hilfe" ***
+ColorsForm.HelpButton.Hint "" ***
+ColorsForm.TextRadioButton.Caption "~Text" ***
+ColorsForm.TextRadioButton.Hint "" ***
+ColorsForm.BackgroundRadioButton.Caption "H~intergrund" ***
+ColorsForm.BackgroundRadioButton.Hint "" ***
+ColorsForm.SampleLabel.Caption "~Beispiel:" ***
+ColorsForm.SampleLabel.Hint "" ***
+ColorsForm.ExampleText "This is an example" ***
+ProductInformationForm.Caption "Produktinformation" ***
+ProductInformationForm.TitleLabel.Caption "AE Text Editor" ***
+ProductInformationForm.TitleLabel.Hint "" ***
+ProductInformationForm.CopyrightLabel.Caption "Copyright 2003 Aaron Lawrence" ***
+ProductInformationForm.CopyrightLabel.Hint "" ***
+ProductInformationForm.OKButton.Caption "~OK" ***
+ProductInformationForm.OKButton.Hint "" ***
+ProductInformationForm.VersionLabel.Caption "VersionLabel" ***
+ProductInformationForm.VersionLabel.Hint "" ***
+ProductInformationForm.TranslationInfoLabel.Caption "                     " ***
+ProductInformationForm.TranslationInfoLabel.Hint "" ***
+FindForm.Caption "Suche Text" ***
+FindForm.OKButton.Caption "~OK" ***
+FindForm.OKButton.Hint "" ***
+FindForm.CancelButton.Caption "Abbruch" ***
+FindForm.CancelButton.Hint "" ***
+FindForm.CaseSensitiveCheckBox.Caption "~Gro·-/Kleinschreibung beachten" ***
+FindForm.CaseSensitiveCheckBox.Hint "" ***
+FindForm.HelpButton.Caption "&Hilfe" ***
+FindForm.HelpButton.Hint "" ***
+FindForm.FromTopCheckBox.Caption "~Von vorn beginnen" ***
+FindForm.FromTopCheckBox.Hint "" ***
+FindForm.TextToFindLabel.Caption "~Suche:" ***
+FindForm.TextToFindLabel.Hint "" ***

@@ -1,0 +1,386 @@
+MessageForm.OKButtonCaption "了解(~O)"
+MessageForm.CancelButtonCaption "取消(~C)"
+MessageForm.HelpButtonCaption "ヘルプ(~H)"
+MessageForm.YesButtonCaption "はい(~Y)"
+MessageForm.NoButtonCaption "いいえ(~N)"
+TextInputForm.OKButtonCaption "了解(~O)"
+TextInputForm.CancelButtonCaption "取消(~C)"
+MainForm.Caption "" ***
+MainForm.FileMenu.Caption "ファイル(~F)"
+MainForm.FileMenu.Hint "" ***
+MainForm.FileNewMI.Caption "新規作成(~N)\tCtrl+N"
+MainForm.FileNewMI.Hint "新しいファイルを作成する"
+MainForm.FileOpenMI.Caption "オープン(~O)\tCtrl+O"
+MainForm.FileOpenMI.Hint "既存ファイルを開く"
+MainForm.FileSaveMI.Caption "保管(~S)\tCtrl+S"
+MainForm.FileSaveMI.Hint "編集中のテキストをファイルに保存する"
+MainForm.FileSaveAsMI.Caption "別名保管(~A)\tCtrl+D"
+MainForm.FileSaveAsMI.Hint "ファイル名を変えて保存する"
+MainForm.FileAutosaveMI.Caption "自動保管(~U)" ***
+MainForm.FileAutosaveMI.Hint "自動保管をオンまたはオフに切り替える"
+MainForm.FilePrintMI.Caption "印刷(~P)\tCtrl+P"
+MainForm.FilePrintMI.Hint "テキストを印刷する"
+MainForm.FileExitMI.Caption "終了(~Q)\tAlt+F4"
+MainForm.FileExitMI.Hint "プログラムを閉じます"
+MainForm.EditMenu.Caption "編集(~E)"
+MainForm.EditMenu.Hint "" ***
+MainForm.EditUndoMI.Caption "もとに戻す(~U)\tAlt+BkSp"
+MainForm.EditUndoMI.Hint "最後の変更を取り消す"
+MainForm.EditCutMI.Caption "切り抜き(~T)\tShift+Del"
+MainForm.EditCutMI.Hint "強調表示されたテキストをクリップボードに移動する"
+MainForm.EditCopyMI.Caption "コピー(~C)\tCtrl+Ins"
+MainForm.EditCopyMI.Hint "強調表示されたテキストをクリップボードにコピーする"
+MainForm.EditPasteMI.Caption "貼付け(~P)\tShift+Ins"
+MainForm.EditPasteMI.Hint "クリップボードのテキストを編集中のファイルに挿入する"
+MainForm.EditSelectAllMI.Caption "全選択(~A)\tCtrl+A"
+MainForm.EditSelectAllMI.Hint "ファイル内のすべてのテキストを選択する"
+MainForm.EditFindMI.Caption "検索(~F)\tCtrl+F"
+MainForm.EditFindMI.Hint "ファイル内の文字列を検索する"
+MainForm.EditFindAgainMI.Caption "再検索(~G)\tCtrl+G"
+MainForm.EditFindAgainMI.Hint "最後に検索した文字列を再度検索する"
+MainForm.EditReplaceMI.Caption "置換(~R)\tCtrl+R"
+MainForm.EditReplaceMI.Hint "ファイル内の文字列を別の文字列に置換する"
+MainForm.OptionsMenu.Caption "オプション(~O)"
+MainForm.OptionsMenu.Hint "" ***
+MainForm.OptionsWrapMI.Caption "ワード・ラップ(~W)\tCtrl+W"
+MainForm.OptionsWrapMI.Hint "ワード・ラップをオンまたはオフに切り替える"
+MainForm.OptionsReadOnlyMI.Caption "読取り専用(~R)"
+MainForm.OptionsReadOnlyMI.Hint "テキスト変更を可または不可に切り替える"
+MainForm.OptionsCodePageMI.Caption "コードページ(~P)"
+MainForm.OptionsCodePageMI.Hint "編集中のファイルを表示するために使うコードページを選択する"
+MainForm.OptionsFontMI.Caption "フォントの設定(~F)" ***
+MainForm.OptionsFontMI.Hint "エディターがテキストを表示するために使うフォントを変更する"
+MainForm.OptionsColorsMI.Caption "色の設定(~C)" ***
+MainForm.OptionsColorsMI.Hint "エディターがテキストを表示するために使う色を変更する"
+MainForm.OptionsF3KeyActionMI.Caption "F3キーの割り当て(~K)"
+MainForm.OptionsF3KeyActionMI.Hint "F3キーのアクションを定義する"
+MainForm.OptionsF3ExitMI.Caption "終了(~Q)"
+MainForm.OptionsF3ExitMI.Hint "F3キーが押されるとエディターを終了する"
+MainForm.OptionsF3FindAgainMI.Caption "再検索(~A)"
+MainForm.OptionsF3FindAgainMI.Hint "F3キーが押されると最後に検索した文字列を再度検索する"
+MainForm.SaveLanguageMI.Caption "翻訳の保存/更新(~T)"
+MainForm.SaveLanguageMI.Hint "このプログラム用の翻訳ファイルを保存、もしくは更新する"
+MainForm.HelpMenu.Caption "ヘルプ(~H)"
+MainForm.HelpMenu.Hint "" ***
+MainForm.HelpContentsMI.Caption "ヘルプ索引(~C)\tF1" ***
+MainForm.HelpContentsMI.Hint "プログラム内のヘルプ・トピックのリストを表示する"
+MainForm.HelpKeysMI.Caption "キーヘルプ(~K)"
+MainForm.HelpKeysMI.Hint "プログラムで使用できる各ショートカット・キーについての説明を表示する"
+MainForm.HelpProductInformationMI.Caption "製品情報(~P)"
+MainForm.HelpProductInformationMI.Hint "製品のバージョン情報を表示する"
+MainForm.OpenDialog.OKName "オープン" ***
+MainForm.OpenDialog.Title "既存ファイルをオープンする"
+MainForm.SaveDialog.OKName "保管"
+MainForm.SaveDialog.Title "" ***
+MainForm.EditCutPMI.Caption "切り抜き(~T)"
+MainForm.EditCutPMI.Hint "" ***
+MainForm.EditCopyPMI.Caption "コピー(~C)"
+MainForm.EditCopyPMI.Hint "" ***
+MainForm.EditPastePMI.Caption "貼付け(~P)"
+MainForm.EditPastePMI.Hint "" ***
+MainForm.EditSelectAllPMI.Caption "全選択(~A)"
+MainForm.EditSelectAllPMI.Hint "" ***
+MainForm.FontDialog.Caption "書体選択"
+MainForm.FontDialog.NameLabel.Caption "名前(~N)"
+MainForm.FontDialog.NameLabel.Hint "" ***
+MainForm.FontDialog.StyleLabel.Caption "スタイル(~T)"
+MainForm.FontDialog.StyleLabel.Hint "" ***
+MainForm.FontDialog.BoldCheck.Caption "疑似強調(~B)"
+MainForm.FontDialog.BoldCheck.Hint "" ***
+MainForm.FontDialog.ItalicCheck.Caption "疑似斜体(~I)"
+MainForm.FontDialog.ItalicCheck.Hint "" ***
+MainForm.FontDialog.UnderscoreCheck.Caption "下線(~U)"
+MainForm.FontDialog.UnderscoreCheck.Hint "" ***
+MainForm.FontDialog.OutlineCheck.Caption "アウトライン(~O)"
+MainForm.FontDialog.OutlineCheck.Hint "" ***
+MainForm.FontDialog.StrikeOutCheck.Caption "取消し線(~S)"
+MainForm.FontDialog.StrikeOutCheck.Hint "" ***
+MainForm.FontDialog.SizeLabel.Caption "サイズ(~Z)"
+MainForm.FontDialog.SizeLabel.Hint "" ***
+MainForm.FontDialog.ActualFaceLabel.Caption "" ***
+MainForm.FontDialog.ActualFaceLabel.Hint "" ***
+MainForm.FontDialog.OKButton.Caption "了解(~O)"
+MainForm.FontDialog.OKButton.Hint "" ***
+MainForm.FontDialog.CancelButton.Caption "取消(~C)"
+MainForm.FontDialog.CancelButton.Hint "" ***
+MainForm.MenuItem.Caption "~1.  (1275)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "~2. 多言語 Latin 1 (850)"
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "米国 (437)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "多言語 Latin 1 (850)"
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Windows Extended (1004)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Latin 2 (912)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Latin 2 Windows (1250)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "欧州"
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Greece ISO (813)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Latin 2 - Eastern Europe (852)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Cyrillic (855)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Latin 5 Turkey (857)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Latin 9 (859)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "ポルトガル (860)"
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "アイスランド (861)"
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "ヘブライ語 (862)"
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Nordic (865)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Russia (866)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Greek PC (869)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Russian Internet (878)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Cyrillic (915)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Baltic (921)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "エストニア (922)"
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Belarus (1131)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Ukraine (1125)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Cyrillic Windows (1251)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Latin 1 Windows (1252)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Greek Windows (1253)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Turkish Windows (1254)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Baltic Windows (1257)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "中近東"
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "ヘブライ語（旧）(856)"
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Arabic (864)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Hebrew Windows (1255)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Arabic Windows (1256)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "アジア"
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "台湾 (938)"
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "日本語 JIS-78 (942)"
+MainForm.MenuItem.Hint "OS/2 J2.1以前より OS/2 で使用されてきた「旧 JIS並び」文字コードです。"
+MainForm.MenuItem.Caption "日本語 JIS-90 (943)"
+MainForm.MenuItem.Hint "OS/2 J2.1より採用された「新 JIS並び」専用のコードページです。マルチ・ベンダー環境に対応できるように、内部コード、句点入力ともにＪＩＳ’９０コードを利用します。"
+MainForm.MenuItem.Caption "韓国 KS-code (949)" 
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "台湾 Big-5 (950)"
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "タイランド (874)"
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "中国 GB (1381)"
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "EBCDIC" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "US (37)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Arabic (420)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "ヘブライ語 (424)" 
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "International (500)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Latin 9 (924)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "United States (1140)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "ドイツ (1141)"
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Denmark, Norway (1142)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Finland, Sweden (1143)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "イタリア (1144)"
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "スペイン (1145)"
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "UK, Ireland (1146)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "フランス (1147)"
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Latin 1 (1148)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "その他"
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Latin 9 (923)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Canadian French (863)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "Latin 1 Apple (1275)" ***
+MainForm.MenuItem.Hint "" ***
+MainForm.MenuItem.Caption "~Custom..." ***
+MainForm.MenuItem.Hint "" ***
+MainForm.SaveLanguageError "言語ファイルの保管途中に問題が発生しました"
+MainForm.SavedMsg "保管しました "
+MainForm.AutosaveDoneMsg "自動保管完了 "
+MainForm.PrintTitle "印刷"
+MainForm.NoPrinterError "プリンターが設定されていません。"
+MainForm.PrintDoneMsg1 "印刷が完了しました（"
+MainForm.PrintDoneMsg2 " ページ）"
+MainForm.HelpTitle "テキストエディターのヘルプ"
+MainForm.ReplaceDoneMsg1 " "
+MainForm.ReplaceDoneMsg2 " 個所置換えられました"
+MainForm.NoReplacementsMsg "指定文字は置換えられませんでした"
+MainForm.MatchMsg "指定文字発見！"
+MainForm.NoMatchMsg "指定文字は見付かりません"
+MainForm.ReadOnlyStatus "読取り専用"
+MainForm.ModifiedStatus "変更あり"
+MainForm.UntitledTitle "(無題)"
+MainForm.AppTitle "テキスト・エディター "
+MainForm.InsertStatus "挿入"
+MainForm.OverwriteStatus "上書"
+MainForm.SaveTitle "ファイルを保管する"
+MainForm.SaveReadonlyError "読取り専用のため上書き出来ません "
+MainForm.SaveAccessDeniedError "保管中にアクセスが拒否されました "
+MainForm.FileInUseError "共用違反。ファイルは別プログラムによって使用中です "
+MainForm.FileDoesNotExistError "ファイルは存在しません "
+MainForm.OpenAccessDeniedError "アクセスが拒否されました "
+MainForm.OpenFileInUseError "共用違反。ファイルは別プログラムによって使用中です "
+MainForm.SaveError "保管中にエラーが発生しました "
+MainForm.ReplacePrompt "本当に上書きしますか？"
+MainForm.NewFileMsg "新規ファイル"
+MainForm.OpenTitle "ファイルを開く"
+MainForm.OpenError "ファイルオープンエラー "
+MainForm.OpenedMsg "ファイルを開きました "
+MainForm.Usage "例"
+MainForm.Usage1 "例：ae [/read] [<filename>]"
+MainForm.Usage2 "  /read：読取り専用に設定"
+MainForm.Usage3 "テキストファイルの表示／編集"
+MainForm.PrintingPageMsg "印刷中：ページ "
+ReplaceForm.Caption "置換"
+ReplaceForm.CaseSensitiveCheckBox.Caption "大文字小文字の識別(~C)"
+ReplaceForm.CaseSensitiveCheckBox.Hint "" ***
+ReplaceForm.FromTopCheckBox.Caption "文頭から(~T)"
+ReplaceForm.FromTopCheckBox.Hint "" ***
+ReplaceForm.FindButton.Caption "検索(~F)"
+ReplaceForm.FindButton.Hint "" ***
+ReplaceForm.ChangeButton.Caption "置換(~H)"
+ReplaceForm.ChangeButton.Hint "" ***
+ReplaceForm.ChangeAllButton.Caption "全置換(~A)"
+ReplaceForm.ChangeAllButton.Hint "" ***
+ReplaceForm.CancelButton.Caption "取消(~C)"
+ReplaceForm.CancelButton.Hint "" ***
+ReplaceForm.HelpButton.Caption "ヘルプ(~H)"
+ReplaceForm.HelpButton.Hint "" ***
+ReplaceForm.TextToFindLabel.Caption "検索(~I)"
+ReplaceForm.TextToFindLabel.Hint "" ***
+ReplaceForm.ReplaceTextLabel.Caption "置換(~R)"
+ReplaceForm.ReplaceTextLabel.Hint "" ***
+LargeFileWarningForm.Caption "大容量ファイル警告"
+LargeFileWarningForm.OKButton.Caption "了解(~O)"
+LargeFileWarningForm.OKButton.Hint "" ***
+LargeFileWarningForm.CancelButton.Caption "取消(~C)"
+LargeFileWarningForm.CancelButton.Hint "" ***
+LargeFileWarningForm.WarningLabel.Caption "このファイルの容量は 1MB以上です。. 読み込むには時間がかかるかもしれません。. 続けますか？" 
+LargeFileWarningForm.WarningLabel.Hint "" ***
+LargeFileWarningForm.NotAgainCheckBox.Caption "以後この警告を表示しない(~D)"
+LargeFileWarningForm.NotAgainCheckBox.Hint "" ***
+LargeFileWarningForm.HelpButton.Caption "ヘルプ(~H)"
+LargeFileWarningForm.HelpButton.Hint "" ***
+SaveQueryForm.Caption "警告！変更は保管されていません"
+SaveQueryForm.MessageLabel.Caption "変更を保管しますか？"
+SaveQueryForm.MessageLabel.Hint "" ***
+SaveQueryForm.SaveButton.Caption "保管(~S)"
+SaveQueryForm.SaveButton.Hint "" ***
+SaveQueryForm.DiscardButton.Caption "破棄(~D)"
+SaveQueryForm.DiscardButton.Hint "" ***
+SaveQueryForm.CancelButton.Caption "取消(~C)"
+SaveQueryForm.CancelButton.Hint "" ***
+AEPrintDialog.Caption "印刷"
+AEPrintDialog.OKButton.Caption "了解(~O)"
+AEPrintDialog.OKButton.Hint "" ***
+AEPrintDialog.SetupPrinterButton.Caption "設定(~S)"
+AEPrintDialog.SetupPrinterButton.Hint "" ***
+AEPrintDialog.CancelButton.Caption "取消(~C)"
+AEPrintDialog.CancelButton.Hint "" ***
+AEPrintDialog.HeaderCheckBox.Caption "ヘッダー(~D)"
+AEPrintDialog.HeaderCheckBox.Hint "" ***
+AEPrintDialog.HelpButton.Caption "ヘルプ(~H)"
+AEPrintDialog.HelpButton.Hint "" ***
+AEPrintDialog.AllRadioButton.Caption "全部"
+AEPrintDialog.AllRadioButton.Hint "" ***
+AEPrintDialog.SelectionRadioButton.Caption "選択範囲"
+AEPrintDialog.SelectionRadioButton.Hint "" ***
+AEPrintDialog.PrinterLabel.Caption "プリンター(~P)"
+AEPrintDialog.PrinterLabel.Hint "" ***
+AEPrintDialog.PrinterSetupTitle "プリンター設定"
+AEPrintDialog.PrinterSetupError "プリンターオプション表示エラー "
+AutosaveForm.Caption "変更の自動保管"
+AutosaveForm.OKButton.Caption "了解(~O)"
+AutosaveForm.OKButton.Hint "" ***
+AutosaveForm.CancelButton.Caption "取消(~C)"
+AutosaveForm.CancelButton.Hint "" ***
+AutosaveForm.HelpButton.Caption "ヘルプ(~H)"
+AutosaveForm.HelpButton.Hint "" ***
+AutosaveForm.NoAutoSaveRadioButton.Caption "自動保管無し"
+AutosaveForm.NoAutoSaveRadioButton.Hint "自動保管を行わない"
+AutosaveForm.TimedAutosaveRadioButton.Caption "時間指定"
+AutosaveForm.TimedAutosaveRadioButton.Hint "自動保管の間隔を時間で指定"
+AutosaveForm.MinutesLabel.Caption "分"
+AutosaveForm.MinutesLabel.Hint "" ***
+AutosaveForm.ChangesLabel.Caption "変更"
+AutosaveForm.ChangesLabel.Hint "" ***
+AutosaveForm.ChangesAutosaveRadioButton.Caption "変更回数指定"
+AutosaveForm.ChangesAutosaveRadioButton.Hint "自動保管の間隔を変更の数で指定"
+AutosaveForm.RequireManualSaveCheckBox.Caption "手動保管後開始"
+AutosaveForm.RequireManualSaveCheckBox.Hint "自動保管機能を一回目の手動保管まで始動しない"
+AutosaveForm.ErrorTitle "エラー"
+AutosaveForm.MinutesError "設定可能な範囲は１分から６００分迄です"
+AutosaveForm.NumberChangesError "設定可能な範囲は１０回から１０００回迄です。"
+ColorsForm.Caption "Colors" ***
+ColorsForm.OKButton.Caption "了解(~O)"
+ColorsForm.OKButton.Hint "" ***
+ColorsForm.CancelButton.Caption "取消(~C)"
+ColorsForm.CancelButton.Hint "" ***
+ColorsForm.HelpButton.Caption "ヘルプ(~H)"
+ColorsForm.HelpButton.Hint "" ***
+ColorsForm.TextRadioButton.Caption "文字(~T)"
+ColorsForm.TextRadioButton.Hint "" ***
+ColorsForm.BackgroundRadioButton.Caption "背景(~B)"
+ColorsForm.BackgroundRadioButton.Hint "" ***
+ColorsForm.SampleLabel.Caption "サンプル(~S)"
+ColorsForm.SampleLabel.Hint "" ***
+ColorsForm.ExampleText "サンプルテキストです。This is an example."
+ProductInformationForm.Caption "製品情報"
+ProductInformationForm.TitleLabel.Caption "AE テキスト・エディター"
+ProductInformationForm.TitleLabel.Hint "" ***
+ProductInformationForm.CopyrightLabel.Caption "Copyright 2003 Aaron Lawrence"
+ProductInformationForm.CopyrightLabel.Hint "" ***
+ProductInformationForm.OKButton.Caption "了解(~O)"
+ProductInformationForm.OKButton.Hint "" ***
+ProductInformationForm.VersionLabel.Caption "バージョン表示"
+ProductInformationForm.VersionLabel.Hint "" ***
+ProductInformationForm.TranslationInfoLabel.Caption "                     " ***
+ProductInformationForm.TranslationInfoLabel.Hint "" ***
+FindForm.Caption "テキスト検索"
+FindForm.OKButton.Caption "検索(~F)"
+FindForm.OKButton.Hint "" ***
+FindForm.CancelButton.Caption "取消(~C)"
+FindForm.CancelButton.Hint "" ***
+FindForm.CaseSensitiveCheckBox.Caption "大文字小文字の識別(~C)"
+FindForm.CaseSensitiveCheckBox.Hint "" ***
+FindForm.HelpButton.Caption "ヘルプ(~H)"
+FindForm.HelpButton.Hint "ヘルプファイルを表示する"
+FindForm.FromTopCheckBox.Caption "文頭から(~T)"
+FindForm.FromTopCheckBox.Hint "" ***
+FindForm.TextToFindLabel.Caption "検索(~I)"
+FindForm.TextToFindLabel.Hint "検索するテキストを入力する"

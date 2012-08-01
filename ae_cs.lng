@@ -1,0 +1,250 @@
+MessageForm.OKButtonCaption "~Hotovo" ***
+MessageForm.CancelButtonCaption "~Zruçit" ***
+MessageForm.HelpButtonCaption "~N povØda" ***
+MessageForm.YesButtonCaption "~Ano" ***
+MessageForm.NoButtonCaption "~Ne" ***
+TextInputForm.OKButtonCaption "~Hotovo" ***
+TextInputForm.CancelButtonCaption "~Zruçit" ***
+MainForm.Caption "" ***
+MainForm.FileMenu.Caption "~Soubor" ***
+MainForm.FileMenu.Hint "" ***
+MainForm.FileNewMI.Caption "~Novì\tCtrl+N" ***
+MainForm.FileNewMI.Hint "VyŸist¡ editor pro zcela novì soubor" ***
+MainForm.FileOpenMI.Caption "~Otevý¡t...\tCtrl+O" ***
+MainForm.FileOpenMI.Hint "Otevý¡t soubor" ***
+MainForm.FileSaveMI.Caption "~Ulo§it\tCtrl+S" ***
+MainForm.FileSaveMI.Hint "Ulo§it text do souboru" ***
+MainForm.FileSaveAsMI.Caption "Ulo§it ~jako...\tCtrl+D" ***
+MainForm.FileSaveAsMI.Hint "Ulo§it text pod jinìm n zvem souboru" ***
+MainForm.FileAutosaveMI.Caption "~Automatick‚ ukl d n¡..." ***
+MainForm.FileAutosaveMI.Hint "Aktivuje nebo deaktivuje automatick‚ ukl d n¡" ***
+MainForm.FilePrintMI.Caption "~Tisk...\tCtrl+P" ***
+MainForm.FilePrintMI.Hint "Tisk textu" ***
+MainForm.FileExitMI.Caption "~Konec\tAlt+F4" ***
+MainForm.FileExitMI.Hint "UkonŸen¡ cel‚ho programu" ***
+MainForm.EditMenu.Caption "~Editace" ***
+MainForm.EditMenu.Hint "" ***
+MainForm.EditUndoMI.Caption "Vz¡t ~zpØt\tAlt+BkSp" ***
+MainForm.EditUndoMI.Hint "Vezme zpØt posledn¡ prov dØnou akci" ***
+MainForm.EditCutMI.Caption "Vyjmou~t\tShift+Del" ***
+MainForm.EditCutMI.Hint "Vyjme vybranì text ze souboru a ulo§¡ do z sobn¡ku" ***
+MainForm.EditCopyMI.Caption "~Kop¡rovat\tCtrl+Ins" ***
+MainForm.EditCopyMI.Hint "Okop¡ruje vybranì text do z sobn¡ku" ***
+MainForm.EditPasteMI.Caption "V~lo§it\tShift+Ins" ***
+MainForm.EditPasteMI.Hint "Vlo§¡ vybranì text ze z sobn¡ku na pozici kurzoru" ***
+MainForm.EditSelectAllMI.Caption "Vybrat vçechn~o\tCtrl+A" ***
+MainForm.EditSelectAllMI.Hint "Vybere a zvìrazn¡ celì text" ***
+MainForm.EditFindMI.Caption "~Vyhledat...\tCtrl+F" ***
+MainForm.EditFindMI.Hint "Vyhled  vybranì kousek textu v souboru" ***
+MainForm.EditFindAgainMI.Caption "Vyhledat ~dalç¡\tCtrl+G" ***
+MainForm.EditFindAgainMI.Hint "Opakuje posledn¡ vyhled v n¡ textu" ***
+MainForm.EditReplaceMI.Caption "~Nahradit...\tCtrl+R" ***
+MainForm.EditReplaceMI.Hint "Nahrazuje jeden kousek textu jinìm zvolenìm kouskem" ***
+MainForm.OptionsMenu.Caption "~Volby" ***
+MainForm.OptionsMenu.Hint "" ***
+MainForm.OptionsWrapMI.Caption "~Zalamov n¡ ý dk…\tCtrl+W" ***
+MainForm.OptionsWrapMI.Hint "Cyklicky aktivuje nebo deaktivuje zalamov n¡ slov na konci ý dk…" ***
+MainForm.OptionsReadOnlyMI.Caption "~Pouze pro Ÿten¡" ***
+MainForm.OptionsReadOnlyMI.Hint "Dovoluje nebo zakazuje prov dØt libovoln‚ zmØny" ***
+MainForm.OptionsFontMI.Caption "~Fonty..." ***
+MainForm.OptionsFontMI.Hint "VìbØr fontu" ***
+MainForm.OptionsColorsMI.Caption "~Barvy..." ***
+MainForm.OptionsColorsMI.Hint "VìbØr barvy" ***
+MainForm.OptionsF3KeyActionMI.Caption "¬innost kl vesy F3" ***
+MainForm.OptionsF3KeyActionMI.Hint "Nastavuje chov n¡ kl vesy F3" ***
+MainForm.OptionsF3ExitMI.Caption "~Konec" ***
+MainForm.OptionsF3ExitMI.Hint "Nastavuje kl vesu F3 na ukonŸen¡ cel‚ho programu" ***
+MainForm.OptionsF3FindAgainMI.Caption "Vyhledat ~dalç¡" ***
+MainForm.OptionsF3FindAgainMI.Hint "Nastavuje kl vesu F3 na opakov n¡ posledn¡ho vyhled v n¡" ***
+MainForm.SaveLanguageMI.Caption "Ulo§it/Aktualizovat pýeklad" ***
+MainForm.SaveLanguageMI.Hint "Ulo§¡ nebo aktualizuje jazykovì pýeklad tohoto programu do souboru" ***
+MainForm.HelpMenu.Caption "~N povØda" ***
+MainForm.HelpMenu.Hint "" ***
+MainForm.HelpContentsMI.Caption "~Obsah\tF1" ***
+MainForm.HelpContentsMI.Hint "Zobraz¡ kompletn¡ n povØdu" ***
+MainForm.HelpKeysMI.Caption "Hork‚ kl vesy" ***
+MainForm.HelpKeysMI.Hint "Zobraz¡ n povØdu pro hork‚ kl vesy" ***
+MainForm.HelpProductInformationMI.Caption "~Informace o produktu" ***
+MainForm.HelpProductInformationMI.Hint "Zobraz¡ informaci o produktu a jeho verzi" ***
+MainForm.EditCutPMI.Caption "Vyjmou~t" ***
+MainForm.EditCutPMI.Hint "" ***
+MainForm.EditCopyPMI.Caption "~Kop¡rovat" ***
+MainForm.EditCopyPMI.Hint "" ***
+MainForm.EditPastePMI.Caption "~Vlo§it" ***
+MainForm.EditPastePMI.Hint "" ***
+MainForm.EditSelectAllPMI.Caption "Vybrat vçechn~o" ***
+MainForm.EditSelectAllPMI.Hint "" ***
+MainForm.FontDialog.Caption "VìbØr fontu" ***
+MainForm.FontDialog.NameLabel.Caption "~Jm‚no:" ***
+MainForm.FontDialog.NameLabel.Hint "" ***
+MainForm.FontDialog.StyleLabel.Caption "S~tyl:" ***
+MainForm.FontDialog.StyleLabel.Hint "" ***
+MainForm.FontDialog.BoldCheck.Caption "~TuŸnì (simulovanì)" ***
+MainForm.FontDialog.BoldCheck.Hint "" ***
+MainForm.FontDialog.ItalicCheck.Caption "~Kurz¡va (simulovanì)" ***
+MainForm.FontDialog.ItalicCheck.Hint "" ***
+MainForm.FontDialog.UnderscoreCheck.Caption "Po~dtr§enì" ***
+MainForm.FontDialog.UnderscoreCheck.Hint "" ***
+MainForm.FontDialog.OutlineCheck.Caption "~Obrysovì" ***
+MainForm.FontDialog.OutlineCheck.Hint "" ***
+MainForm.FontDialog.StrikeOutCheck.Caption "~Pýeçkrtnutì" ***
+MainForm.FontDialog.StrikeOutCheck.Hint "" ***
+MainForm.FontDialog.SizeLabel.Caption "~Velikost:" ***
+MainForm.FontDialog.SizeLabel.Hint "" ***
+MainForm.FontDialog.ActualFaceLabel.Caption "" ***
+MainForm.FontDialog.ActualFaceLabel.Hint "" ***
+MainForm.FontDialog.OKButton.Caption "~Hotovo" ***
+MainForm.FontDialog.OKButton.Hint "" ***
+MainForm.FontDialog.CancelButton.Caption "Zruçit" ***
+MainForm.FontDialog.CancelButton.Hint "" ***
+MainForm.SaveLanguageError "Chyba pýi ukl d n¡ jazykov‚ho souboru " ***
+MainForm.SavedMsg "Ulo§eno: " ***
+MainForm.AutosaveDoneMsg "Automatick‚ ukl d n¡ " ***
+MainForm.PrintTitle "Tisk" ***
+MainForm.NoPrinterError "Nem te spr vnØ nakonfigurovanou tisk rnu." ***
+MainForm.PrintDoneMsg1 "Tisk byl dokonŸen (" ***
+MainForm.PrintDoneMsg2 " str nek)" ***
+MainForm.HelpTitle "N povØda textov‚ho editoru" ***
+MainForm.ReplaceDoneMsg1 "Nahrazeno " ***
+MainForm.ReplaceDoneMsg2 " pý¡pad(…)" ***
+MainForm.NoReplacementsMsg "Nebylo provedeno § dn‚ nahrazen¡" ***
+MainForm.MatchMsg "Naj¡t" ***
+MainForm.NoMatchMsg "¦ dnì vìraz nalezen" ***
+MainForm.ReadOnlyStatus "Jen pro Ÿten¡" ***
+MainForm.ModifiedStatus "Modifikov n" ***
+MainForm.UntitledTitle "(Bez n zvu)" ***
+MainForm.AppTitle "Textovì Editor" ***
+MainForm.InsertStatus "INS" ***
+MainForm.OverwriteStatus "OVR" ***
+MainForm.SaveTitle "Ulo§en¡ souboru" ***
+MainForm.SaveReadonlyError "Text nelze ulo§it do read-only souboru: " ***
+MainForm.SaveAccessDeniedError "Pýi uklad n¡ souboru byl odm¡tnut pý¡stup: " ***
+MainForm.FileInUseError "Soubor je pou§¡v n jinìm programem: " ***
+MainForm.FileDoesNotExistError "Soubor bohu§el neexistuje: " ***
+MainForm.OpenAccessDeniedError "Pý¡stup byl odm¡tnut: " ***
+MainForm.OpenFileInUseError "Soubor je pou§¡v n jinìm programem: " ***
+MainForm.SaveError "Chyba pýi ukl d n¡ souboru: " ***
+MainForm.ReplacePrompt "SkuteŸnØ chcete nahradit tento soubor?" ***
+MainForm.NewFileMsg "Novì soubor" ***
+MainForm.OpenTitle "Otevýen¡ souboru" ***
+MainForm.OpenError "Chyba pýi otevýen¡ souboru: " ***
+MainForm.OpenedMsg "Otevýeno: " ***
+MainForm.Usage "Pou§it¡" ***
+MainForm.Usage1 "Pou§it¡: ae [/read] [<jm‚no souboru>]" ***
+MainForm.Usage2 "  /read: nastav¡ atribut read-only" ***
+MainForm.Usage3 "Zobrazuje nebo edituje textov‚ soubory" ***
+MainForm.PrintingPageMsg "Tisknu: str nku " ***
+SaveQueryForm.Caption "Varov n¡: Nejsou ulo§eny zmØny" ***
+SaveQueryForm.MessageLabel.Caption "Chcete ulo§it vaçe proveden‚ zmØny?" ***
+SaveQueryForm.MessageLabel.Hint "" ***
+SaveQueryForm.SaveButton.Caption "~Ulo§it" ***
+SaveQueryForm.SaveButton.Hint "" ***
+SaveQueryForm.DiscardButton.Caption "~Zahodit" ***
+SaveQueryForm.DiscardButton.Hint "" ***
+SaveQueryForm.CancelButton.Caption "Zruçit" ***
+SaveQueryForm.CancelButton.Hint "" ***
+ProductInformationForm.Caption "Informace o produktu" ***
+ProductInformationForm.TitleLabel.Caption "AE Textovì Editor" ***
+ProductInformationForm.TitleLabel.Hint "" ***
+ProductInformationForm.CopyrightLabel.Caption "Copyright 2003 Aaron Lawrence" ***
+ProductInformationForm.CopyrightLabel.Hint "" ***
+ProductInformationForm.OKButton.Caption "~Hotovo" ***
+ProductInformationForm.OKButton.Hint "" ***
+ProductInformationForm.VersionLabel.Caption "VersionLabel" ***
+ProductInformationForm.VersionLabel.Hint "" ***
+ColorsForm.Caption "Barvy" ***
+ColorsForm.OKButton.Caption "~Hotovo" ***
+ColorsForm.OKButton.Hint "" ***
+ColorsForm.CancelButton.Caption "Zruçit" ***
+ColorsForm.CancelButton.Hint "" ***
+ColorsForm.HelpButton.Caption "&N povØda" ***
+ColorsForm.HelpButton.Hint "" ***
+ColorsForm.TextRadioButton.Caption "~Text" ***
+ColorsForm.TextRadioButton.Hint "" ***
+ColorsForm.BackgroundRadioButton.Caption "~Pozad¡" ***
+ColorsForm.BackgroundRadioButton.Hint "" ***
+ColorsForm.SampleLabel.Caption "~Pý¡klad:" ***
+ColorsForm.SampleLabel.Hint "" ***
+ColorsForm.ExampleText "Toto je pý¡klad" ***
+AutosaveForm.Caption "Nastaven¡ automatick‚ho ukl d n¡" ***
+AutosaveForm.OKButton.Caption "~Hotovo" ***
+AutosaveForm.OKButton.Hint "" ***
+AutosaveForm.CancelButton.Caption "Zruçit" ***
+AutosaveForm.CancelButton.Hint "" ***
+AutosaveForm.HelpButton.Caption "&N povØda" ***
+AutosaveForm.HelpButton.Hint "" ***
+AutosaveForm.NoAutoSaveRadioButton.Caption "Bez automatick‚ho ulo§en¡" ***
+AutosaveForm.NoAutoSaveRadioButton.Hint "Automatick‚ ukl d n¡ nebude nikdy aktivov no!" ***
+AutosaveForm.TimedAutosaveRadioButton.Caption "Ulo§it v§dy po" ***
+AutosaveForm.TimedAutosaveRadioButton.Hint "Soubor bude ulo§en po definovan‚m poŸtu minut" ***
+AutosaveForm.MinutesLabel.Caption "minut ch" ***
+AutosaveForm.MinutesLabel.Hint "" ***
+AutosaveForm.ChangesLabel.Caption "zmØn ch" ***
+AutosaveForm.ChangesLabel.Hint "" ***
+AutosaveForm.ChangesAutosaveRadioButton.Caption "Ulo§it v§dy po" ***
+AutosaveForm.ChangesAutosaveRadioButton.Hint "Soubor bude ulo§en po definovan‚m poŸtu zmØn" ***
+AutosaveForm.RequireManualSaveCheckBox.Caption "Vy§aduje manu ln¡ ulo§en¡ pro aktivaci" ***
+AutosaveForm.RequireManualSaveCheckBox.Hint "Automatick‚ ukl d n¡ nebude spuçtØno dokud neprovedete manu ln¡ ulo§en¡ textu" ***
+AutosaveForm.ErrorTitle "Chyba" ***
+AutosaveForm.MinutesError "PoŸet minut mus¡ bìt v intervalu od 1 do 600" ***
+AutosaveForm.NumberChangesError "PoŸet zmØn mus¡ bìt v intervalu od 10 do 1000" ***
+AEPrintDialog.Caption "Print" ***
+AEPrintDialog.OKButton.Caption "~Hotovo" ***
+AEPrintDialog.OKButton.Hint "" ***
+AEPrintDialog.SetupPrinterButton.Caption "~Nastaven¡..." ***
+AEPrintDialog.SetupPrinterButton.Hint "" ***
+AEPrintDialog.CancelButton.Caption "Zruçit" ***
+AEPrintDialog.CancelButton.Hint "" ***
+AEPrintDialog.HeaderCheckBox.Caption "~HlaviŸka" ***
+AEPrintDialog.HeaderCheckBox.Hint "" ***
+AEPrintDialog.HelpButton.Caption "&N povØda" ***
+AEPrintDialog.HelpButton.Hint "" ***
+AEPrintDialog.AllRadioButton.Caption "Vçechno" ***
+AEPrintDialog.AllRadioButton.Hint "" ***
+AEPrintDialog.SelectionRadioButton.Caption "Vybranì text" ***
+AEPrintDialog.SelectionRadioButton.Hint "" ***
+AEPrintDialog.PrinterLabel.Caption "~Tisk rna:" ***
+AEPrintDialog.PrinterLabel.Hint "" ***
+AEPrintDialog.PrinterSetupTitle "Nastaven¡ tisk rny" ***
+AEPrintDialog.PrinterSetupError "Chyba pýi zobrazen¡ tiskovìch parametr…: " ***
+FindForm.Caption "Naj¡t text" ***
+FindForm.OKButton.Caption "~Hotovo" ***
+FindForm.OKButton.Hint "" ***
+FindForm.CancelButton.Caption "Zruçit" ***
+FindForm.CancelButton.Hint "" ***
+FindForm.CaseSensitiveCheckBox.Caption "~Rozliçovat mal  a velk " ***
+FindForm.CaseSensitiveCheckBox.Hint "" ***
+FindForm.HelpButton.Caption "&N povØda" ***
+FindForm.HelpButton.Hint "" ***
+FindForm.FromTopCheckBox.Caption "~Od zaŸ tku" ***
+FindForm.FromTopCheckBox.Hint "" ***
+FindForm.TextToFindLabel.Caption "~Naj¡t:" ***
+FindForm.TextToFindLabel.Hint "" ***
+ReplaceForm.Caption "Nahradit text" ***
+ReplaceForm.OKButton.Caption "~Hotovo" ***
+ReplaceForm.OKButton.Hint "" ***
+ReplaceForm.CancelButton.Caption "Zruçit" ***
+ReplaceForm.CancelButton.Hint "" ***
+ReplaceForm.CaseSensitiveCheckBox.Caption "~Rozliçovat mal  a velk " ***
+ReplaceForm.CaseSensitiveCheckBox.Hint "" ***
+ReplaceForm.ConfirmCheckBox.Caption "Potvrdit ~ka§d‚ nahrazen¡" ***
+ReplaceForm.ConfirmCheckBox.Hint "" ***
+ReplaceForm.HelpButton.Caption "~N povØda" ***
+ReplaceForm.HelpButton.Hint "" ***
+ReplaceForm.FromTopCheckBox.Caption "~Od zaŸ tku" ***
+ReplaceForm.FromTopCheckBox.Hint "" ***
+ReplaceForm.TextToFindLabel.Caption "~Naj¡t:" ***
+ReplaceForm.TextToFindLabel.Hint "" ***
+ReplaceForm.ReplaceTextLabel.Caption "~Nahradit s:" ***
+ReplaceForm.ReplaceTextLabel.Hint "" ***
+QueryReplaceForm.Caption "Nahradit" ***
+QueryReplaceForm.MessageLabel.Caption "Nahradit tento vìskyt?" ***
+QueryReplaceForm.MessageLabel.Hint "" ***
+QueryReplaceForm.YesButton.Caption "~Ano" ***
+QueryReplaceForm.YesButton.Hint "" ***
+QueryReplaceForm.NoButton.Caption "~Ne" ***
+QueryReplaceForm.NoButton.Hint "" ***
+QueryReplaceForm.CancelButton.Caption "Zruçit" ***
+QueryReplaceForm.CancelButton.Hint "" ***
+QueryReplaceForm.Button1.Caption "~Vçechno" ***
+QueryReplaceForm.Button1.Hint "" ***
